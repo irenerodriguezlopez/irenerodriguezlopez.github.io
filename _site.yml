@@ -1,0 +1,41 @@
+name: "Irene Rodríguez-López"                                # CHANGE HERE 
+output_dir: "docs"
+navbar:
+  title: "Irene Rodríguez-López"                             # CHANGE HERE 
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "My thesis"
+      icon: fa-pencil
+      href: thesis.html
+    - text: "Working papers"
+      icon: fa-archive fa
+      href: papers.html
+    - text: "CV"
+      icon: fa-file-pdf-o
+      href: cv.html # CHANGE HERE OR DELETE ALL 3 LINES 
+    - text: "Contact"
+      icon: fa-envelope fa
+      href: contact.html
+  right:
+    - text: ""
+      icon: fa-envelope-o fa
+      href: mailto:irene.rodriguez@upf.edu     
+    - text: ""
+      icon: fa-archive fa
+      href: https://scholar.google.com/citations?user=c-iA5moAAAAJ&hl=es&oi=ao # CHANGE HERE 
+    - text: ""
+      icon: fa-github fa
+      href: https://github.com/irewrl  
+    - text: ""
+      icon: fa-twitter fa
+      href: https://twitter.com/irewrl
+      # CHANGE HERE 
+output:
+  html_document:
+    theme: bootstrap
+    highlight: tango
+    lib_dir: site_libs
+    self_contained: no
