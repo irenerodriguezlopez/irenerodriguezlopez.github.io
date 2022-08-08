@@ -1,0 +1,22 @@
+---
+title: "Welcome to my personal website!"
+output:
+  html_document:
+    includes:
+      in_header: cover.html
+      css: float.css
+---
+
+Hello!
+
+My name is Irene and I am a PhD candidate in the Department of Political and Social Sciences at [Pompeu Fabra University](https://www.upf.edu/web/2019-2020/deppol), working on the VolkswagenStiftung COVIDEU Project.
+
+I hold a BA in Political Science and Public Administration by the University of Girona (UdG), an MA in Political Analysis and Institutional Assessment by the University of Barcelona (UB) and a postgraduate degree in Data Analysis also by the UB. My research interests include political behavior and attitudes, far-right politics and quantitative methods.
+
+At the [COVIDEU Project](covideu), along with my colleagues, we investigate the effect of the coronavirus pandemic on public support for the European Integration and public attitudes towards the EU.
+
+My [doctoral thesis](thesis.html) focuses specifically on COVID-19 pandemic effects on citizens' political attitudes and electoral behavior in the aftermath of the pandemic.
+
+```{r me, echo=FALSE, fig.align='center', fig.dim=c(4,2), out.width = "50%"}
+knitr::include_graphics("000031.JPG")
+```

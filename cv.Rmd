@@ -1,0 +1,49 @@
+---
+title: "My CV"
+---
+
+::: {style="display: flex;"}
+<div>
+
+### Education
+
+**Ph.D. in Political Science** (2022-Present) <br> Pompeu Fabra University, Barcelona, Spain. <br> Thesis Project Title: *"Are we better? COVID-19 Pandemic effects on political attitudes and behavior"*
+
+**Postgraduate Degree in Data Analysis** (2021-2022) <br> Barcelona University, Barcelona, Spain.
+
+**MSc in Political Analysis and Institutional Assessment** (2020-2021) <br> Barcelona University, Barcelona, Spain. <br> Thesis Title: *"The entry of Vox in the Spanish political institutions and its effect on citizens' attitudes towards immigration"*.
+
+**BA in Political Science and Administration** (2016-2020) <br> Girona University, Girona, Spain.
+
+### Awards and Honors
+
+**PhD Programme in Political and Social Sciences Doctoral Workshop** <br> - Pompeu Fabra University <br> - 2nd place Best Poster Award <br> - Check out my poster: <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="Thesis Poster">Thesis Poster</a>
+
+### Skills
+
+**Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX <br> **Natural**: Spanish (native), Catalan (native), Envlish (proficient), German (basic)
+
+</div>
+
+<div>
+
+### Workshops and conferences
+
+**RECSM Summer Methods School**: *Big Data: Computational Analysis of Text* <br> - July 2022 <br> - Pompeu Fabra University <br> - Instructor: Carlos Arcila (Universidad de Salamanca) <br> - <a href="BigData_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
+
+**RECSM Summer Methods School**: *Multilevel I: Introduction to Multilevel Models* <br> - July 2022 <br> - Pompeu Fabra University <br> - Instructors: Carla Rampichini and Leonardo Grilli (Università di Firenze) <br> - <a href="MultilevelI_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
+
+**VI PhD Workshop on Empirical Research** <br> - June 2022 <br> - Pompeu Fabra University <br> - Organizer: Dr. Toni Rodon
+
+**COVIDEU Project Workshop**: *First Project Workshop* <br> - June 2022 <br> - University of Amsterdam
+
+**UPF PhD Program**: *Working with Concepts in the Social Sciences* <br> - May 2022 <br> - Pompeu Fabra University <br> - Instructor: Frederic Schaffer (University of Massachussets) <br> - <a href="Concepts_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
+
+**PhD Programme in Political and Social Sciences**: *Doctoral Workshop* <br> - May 2022 <br> - Pompeu Fabra University
+
+</div>
+:::
+
+### Download my CV
+
+Here you can find an updated PDF version of my CV: <a href="Irene_RodriguezLopez_CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>

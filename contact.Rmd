@@ -1,0 +1,11 @@
+---
+title: "Contact me"
+---
+
+You can find me at Room 20.035, Ciutadella Campus of the Pompeu Fabra University, 25-27 Ramon Trias Fargas St. (Barcelona, Spain).
+
+Contact info:
+
+-   Email me at [irene.rodriguez\@upf.edu](mailto:irene.rodriguez@upf.edu)
+-   [Twitter](www.twitter.com/irewrl)
+-   [GitHub](www.github.com/irewrl)
