@@ -37,9 +37,9 @@ title: "My CV"
 
 **COVIDEU Project Workshop**: *First Project Workshop* <br> - June 2022 <br> - University of Amsterdam
 
-**UPF PhD Program**: *Working with Concepts in the Social Sciences* <br> - May 2022 <br> - Pompeu Fabra University <br> - Instructor: Frederic Schaffer (University of Massachussets) <br> - <a href="Concepts_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
+**PhD Programme in Political and Social Sciences**: *Doctoral Workshop* <br> - March 2022 <br> - Pompeu Fabra University
 
-**PhD Programme in Political and Social Sciences**: *Doctoral Workshop* <br> - May 2022 <br> - Pompeu Fabra University
+**UPF PhD Program**: *Working with Concepts in the Social Sciences* <br> - February 2022 <br> - Pompeu Fabra University <br> - Instructor: Frederic Schaffer (University of Massachussets) <br> - <a href="Concepts_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
 
 </div>
 :::
