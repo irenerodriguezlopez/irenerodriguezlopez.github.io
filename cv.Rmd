@@ -21,7 +21,7 @@ title: "My CV"
 
 ### Skills
 
-**Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX <br> **Natural**: Spanish (native), Catalan (native), Envlish (proficient), German (basic)
+**Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (basic)
 
 </div>
 
