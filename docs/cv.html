@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>My CV</title>
+
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Irene Rodríguez-López</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="thesis.html">
+    <span class="fa fa-pencil"></span>
+     
+    My thesis
+  </a>
+</li>
+<li>
+  <a href="papers.html">
+    <span class="fa fa-archive fa"></span>
+     
+    Working papers
+  </a>
+</li>
+<li>
+  <a href="cv.html">
+    <span class="fa fa-file-pdf-o"></span>
+     
+    CV
+  </a>
+</li>
+<li>
+  <a href="contact.html">
+    <span class="fa fa-envelope fa"></span>
+     
+    Contact
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="mailto:irene.rodriguez@upf.edu">
+    <span class="fa fa-envelope-o fa"></span>
+     
+    
+  </a>
+</li>
+<li>
+  <a href="https://scholar.google.com/citations?user=c-iA5moAAAAJ&amp;hl=es&amp;oi=ao">
+    <span class="fa fa-archive fa"></span>
+     
+    
+  </a>
+</li>
+<li>
+  <a href="https://github.com/irewrl">
+    <span class="fa fa-github fa"></span>
+     
+    
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/irewrl">
+    <span class="fa fa-twitter fa"></span>
+     
+    
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">My CV</h1>
+
+</div>
+
+
+<div style="display: flex;">
+<div>
+<div id="education" class="section level3">
+<h3>Education</h3>
+<p><strong>Ph.D. in Political Science</strong> (2022-Present) <br>
+Pompeu Fabra University, Barcelona, Spain. <br> Thesis Project Title:
+<em>“Are we better? COVID-19 Pandemic effects on political attitudes and
+behavior”</em></p>
+<p><strong>Postgraduate Degree in Data Analysis</strong> (2021-2022)
+<br> Barcelona University, Barcelona, Spain.</p>
+<p><strong>MSc in Political Analysis and Institutional
+Assessment</strong> (2020-2021) <br> Barcelona University, Barcelona,
+Spain. <br> Thesis Title: <em>“The entry of Vox in the Spanish political
+institutions and its effect on citizens’ attitudes towards
+immigration”</em>.</p>
+<p><strong>BA in Political Science and Administration</strong>
+(2016-2020) <br> Girona University, Girona, Spain.</p>
+</div>
+<div id="awards-and-honors" class="section level3">
+<h3>Awards and Honors</h3>
+<p><strong>PhD Programme in Political and Social Sciences Doctoral
+Workshop</strong> <br> - Pompeu Fabra University <br> - 2nd place Best
+Poster Award <br> - Check out my poster:
+<a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="Thesis Poster">Thesis
+Poster</a></p>
+</div>
+<div id="skills" class="section level3">
+<h3>Skills</h3>
+<p><strong>Programming</strong>: R (Expert in Data Analysis for
+Political Analysis and Public Administration) <br>
+<strong>Markup</strong>: Markdown/RMarkdown, LaTeX <br>
+<strong>Natural</strong>: Spanish (native), Catalan (native), Envlish
+(proficient), German (basic)</p>
+</div>
+</div>
+<div id="workshops-and-conferences" class="section level3">
+<h3>Workshops and conferences</h3>
+<p><strong>RECSM Summer Methods School</strong>: <em>Big Data:
+Computational Analysis of Text</em> <br> - July 2022 <br> - Pompeu Fabra
+University <br> - Instructor: Carlos Arcila (Universidad de Salamanca)
+<br> -
+<a href="BigData_Certificate.pdf#" class="download" title="Course certificate">Course
+certificate</a></p>
+<p><strong>RECSM Summer Methods School</strong>: <em>Multilevel I:
+Introduction to Multilevel Models</em> <br> - July 2022 <br> - Pompeu
+Fabra University <br> - Instructors: Carla Rampichini and Leonardo
+Grilli (Università di Firenze) <br> -
+<a href="MultilevelI_Certificate.pdf#" class="download" title="Course certificate">Course
+certificate</a></p>
+<p><strong>VI PhD Workshop on Empirical Research</strong> <br> - June
+2022 <br> - Pompeu Fabra University <br> - Organizer: Dr. Toni Rodon</p>
+<p><strong>COVIDEU Project Workshop</strong>: <em>First Project
+Workshop</em> <br> - June 2022 <br> - University of Amsterdam</p>
+<p><strong>UPF PhD Program</strong>: <em>Working with Concepts in the
+Social Sciences</em> <br> - May 2022 <br> - Pompeu Fabra University <br>
+- Instructor: Frederic Schaffer (University of Massachussets) <br> -
+<a href="Concepts_Certificate.pdf#" class="download" title="Course certificate">Course
+certificate</a></p>
+<p><strong>PhD Programme in Political and Social Sciences</strong>:
+<em>Doctoral Workshop</em> <br> - May 2022 <br> - Pompeu Fabra
+University</p>
+</div>
+</div>
+<div id="download-my-cv" class="section level3">
+<h3>Download my CV</h3>
+<p>Here you can find an updated PDF version of my CV:
+<a href="Irene_RodriguezLopez_CV.pdf#" class="download" title="Download CV as PDF">Download
+CV</a></p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

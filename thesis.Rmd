@@ -1,0 +1,15 @@
+---
+title: "My PhD Thesis"
+output:
+  html_document:
+    includes:
+      in_header: cover_thesis.html
+---
+
+Here you can find the abstract of my PhD thesis, started on January 2022, and titled:
+
+### Has the pandemic made us better? Effects of the COVID-19 pandemic on citizens' political attitudes.
+
+> The world's population has been coexisting with a virus for the last two years. The arrival of the COVID-19 pandemic has brought with it many different consequences, from economic and health issues to effects on attitudes and behaviors of the population. Many articles have developed in the short time that has passed since the pandemic first started, and this thesis aims to contribute to this body of literature with updated results of effects of the pandemic on the population's political attitudes: political extremism, that is support for radical right parties (RRP); attitudes towards immigration; and satisfaction with democracy. The departing point of my work is that previous studies have found strong but short-term results, given that the pandemic itself has been fluctuating in intensity and government measures and policies have also changed since the outbreak in March, 2020. Paper one will study how living in a high-risk area for COVID-19 infection affects RRP support through two observational studies (an aggregate and an individual-level analysis). The second paper will test whether personal exposure to COVID-19 has an effect on citizens' attitudes towards immigration, and will try to disentangle the mechanisms through which that could happen via a survey experiment. Finally, paper three will use a quasi-experimental method (Regression Discontinuity Design) to uncover the effects of government measures in later stages of the pandemic on citizens' satisfaction with democracy.
+
+If you'd like to know more about it, or read the full thesis proposal, hit me up at [irene.rodriguez\@upf.edu](mailto:irene.rodriguez@upf.edu).
