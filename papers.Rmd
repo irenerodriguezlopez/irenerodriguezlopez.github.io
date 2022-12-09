@@ -6,10 +6,12 @@ output:
       in_header: cover_books.html
 ---
 
-Rodríguez-López, I. (n.d.). Crises and extremism: How the COVID-19 pandemic has affected support for the radical right. *Working paper*. [^1]
+Rodríguez, I. (n.d.). Has the Covid-19 pandemic made us better? The pandemic incidence and restrictions and their relationship with radical right voting. *Working paper*. [^1]
 
 [^1]: Derived from PhD Thesis
 
-Rodríguez-López, I. (n.d.). The dangers of legitimation: Radical right party parliamentary entry effects on public attitudes towards immigration. *Working paper*. [^2]
+Rodríguez, I. (n.d.). The dangers of legitimation: Radical right party parliamentary entry effects on public attitudes towards immigration. *Working paper*. [^2]
 
 [^2]: Derived from Master's Thesis
+
+Rodríguez, I., 

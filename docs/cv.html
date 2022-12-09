@@ -13,7 +13,7 @@
 
 <title>My CV</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -131,11 +131,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -164,8 +168,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -173,16 +177,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -316,12 +313,15 @@ $(document).ready(function () {
 
 <div style="display: flex;">
 <div>
+<div id="current-position" class="section level3">
+<h3>Current position</h3>
+<p><strong>Ph.D. Student in Political Science</strong> (2022-Present)
+<br> Pompeu Fabra University, Barcelona, Spain. <br> Thesis Project
+Title: <em>“Are we better? COVID-19 Pandemic effects on political
+attitudes and behavior”</em> <br> Supervisor: Dr. Toni Rodon.</p>
+</div>
 <div id="education" class="section level3">
 <h3>Education</h3>
-<p><strong>Ph.D. in Political Science</strong> (2022-Present) <br>
-Pompeu Fabra University, Barcelona, Spain. <br> Thesis Project Title:
-<em>“Are we better? COVID-19 Pandemic effects on political attitudes and
-behavior”</em></p>
 <p><strong>Postgraduate Degree in Data Analysis</strong> (2021-2022)
 <br> Barcelona University, Barcelona, Spain.</p>
 <p><strong>MSc in Political Analysis and Institutional
@@ -340,6 +340,28 @@ Poster Award <br> - Check out my poster:
 <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="Thesis Poster">Thesis
 Poster</a></p>
 </div>
+<div id="research" class="section level3">
+<h3>Research</h3>
+<p>Rodríguez, I. (n.d.). Has the Covid-19 pandemic made us better? The
+pandemic incidence and restrictions and their relationship with radical
+right voting. <em>Working paper</em>.</p>
+<p>Rodríguez, I. (n.d.). The dangers of legitimation: Radical right
+party parliamentary entry effects on public attitudes towards
+immigration. <em>Working paper</em>.</p>
+</div>
+<div id="conferences" class="section level3">
+<h3>Conferences</h3>
+<p><em>[forthcoming]</em>. Midwest Political Science Association, 2023.
+<br> Presenting: <em>UK Vaccination Rollout and Euroscepticism</em>.</p>
+</div>
+<div id="teaching" class="section level3">
+<h3>Teaching</h3>
+<p><strong>Universitat Pompeu Fabra</strong> (2022-2023) <br> - Crash
+Course on Basic Statistics and R (BA). - Seminars for Qualitative
+Methodology II (BA). - Seminars for Quantitative Methodology (BA).</p>
+<p><strong>Universitat de Barcelona</strong> (2021) <br> - Seminar on
+voter behavior and radical right parties.</p>
+</div>
 <div id="skills" class="section level3">
 <h3>Skills</h3>
 <p><strong>Programming</strong>: R (Expert in Data Analysis for
@@ -349,8 +371,8 @@ Political Analysis and Public Administration) <br>
 (proficient), German (basic)</p>
 </div>
 </div>
-<div id="workshops-and-conferences" class="section level3">
-<h3>Workshops and conferences</h3>
+<div id="workshops" class="section level3">
+<h3>Workshops</h3>
 <p><strong>RECSM Summer Methods School</strong>: <em>Big Data:
 Computational Analysis of Text</em> <br> - July 2022 <br> - Pompeu Fabra
 University <br> - Instructor: Carlos Arcila (Universidad de Salamanca)

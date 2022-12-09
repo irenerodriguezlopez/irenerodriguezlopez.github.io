@@ -5,9 +5,11 @@ title: "My CV"
 ::: {style="display: flex;"}
 <div>
 
-### Education
+### Current position
 
-**Ph.D. in Political Science** (2022-Present) <br> Pompeu Fabra University, Barcelona, Spain. <br> Thesis Project Title: *"Are we better? COVID-19 Pandemic effects on political attitudes and behavior"*
+**Ph.D. Student in Political Science** (2022-Present) <br> Pompeu Fabra University, Barcelona, Spain. <br> Thesis Project Title: *"Are we better? COVID-19 Pandemic effects on political attitudes and behavior"* <br> Supervisor: Dr. Toni Rodon.
+
+### Education
 
 **Postgraduate Degree in Data Analysis** (2021-2022) <br> Barcelona University, Barcelona, Spain.
 
@@ -19,6 +21,26 @@ title: "My CV"
 
 **PhD Programme in Political and Social Sciences Doctoral Workshop** <br> - Pompeu Fabra University <br> - 2nd place Best Poster Award <br> - Check out my poster: <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="Thesis Poster">Thesis Poster</a>
 
+### Research
+
+Rodríguez, I. (n.d.). Has the Covid-19 pandemic made us better? The pandemic incidence and restrictions and their relationship with radical right voting. *Working paper*.
+
+Rodríguez, I. (n.d.). The dangers of legitimation: Radical right party parliamentary entry effects on public attitudes towards immigration. *Working paper*.
+
+### Conferences
+
+*[forthcoming]*. Midwest Political Science Association, 2023. <br> Presenting: *UK Vaccination Rollout and Euroscepticism*.
+
+### Teaching
+
+**Universitat Pompeu Fabra** (2022-2023) <br>
+- Crash Course on Basic Statistics and R (BA).
+- Seminars for Qualitative Methodology II (BA).
+- Seminars for Quantitative Methodology (BA).
+
+**Universitat de Barcelona** (2021) <br>
+- Seminar on voter behavior and radical right parties.
+
 ### Skills
 
 **Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (basic)
@@ -27,7 +49,7 @@ title: "My CV"
 
 <div>
 
-### Workshops and conferences
+### Workshops
 
 **RECSM Summer Methods School**: *Big Data: Computational Analysis of Text* <br> - July 2022 <br> - Pompeu Fabra University <br> - Instructor: Carlos Arcila (Universidad de Salamanca) <br> - <a href="BigData_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
 
