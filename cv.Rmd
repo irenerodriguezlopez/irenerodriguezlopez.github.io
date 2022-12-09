@@ -19,7 +19,7 @@ title: "My CV"
 
 ### Awards and Honors
 
-**PhD Programme in Political and Social Sciences Doctoral Workshop** <br> - Pompeu Fabra University <br> - 2nd place Best Poster Award <br> - Check out my poster: <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="Thesis Poster">Thesis Poster</a>
+**PhD Programme in Political and Social Sciences Doctoral Workshop** <br> - Pompeu Fabra University <br> - 2nd place Best Poster Award <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
 
 ### Research
 
