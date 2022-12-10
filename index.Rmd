@@ -13,7 +13,7 @@ My name is Irene and I am a PhD candidate in the Department of Political and Soc
 
 I hold a BA in Political Science and Public Administration by the University of Girona (UdG), an MA in Political Analysis and Institutional Assessment by the University of Barcelona (UB) and a postgraduate degree in Data Analysis also by the UB. My research interests include political behavior and attitudes, far-right politics and quantitative methods.
 
-At the [COVIDEU Project](covideu), along with my colleagues, we investigate the effect of the coronavirus pandemic on public support for the European Integration and public attitudes towards the EU.
+At the [COVIDEU Project](https://www.covideu.info), along with my colleagues, we investigate the effect of the coronavirus pandemic on public support for the European Integration and public attitudes towards the EU.
 
 My [doctoral thesis](thesis.html) focuses specifically on COVID-19 pandemic effects on citizens' political attitudes and electoral behavior in the aftermath of the pandemic.
 
