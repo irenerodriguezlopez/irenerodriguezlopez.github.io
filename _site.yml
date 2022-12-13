@@ -4,7 +4,7 @@ navbar:
   title: "Irene Rodríguez"                             # CHANGE HERE 
   type: inverse
   left:
-    - text: "Home"
+    - text: "About"
       icon: fa-home
       href: index.html
     - text: "My thesis"

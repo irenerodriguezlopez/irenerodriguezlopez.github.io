@@ -6,12 +6,6 @@ output:
       in_header: cover_books.html
 ---
 
-Rodríguez, I. (n.d.). Has the Covid-19 pandemic made us better? The pandemic incidence and restrictions and their relationship with radical right voting. *Working paper*. [^1]
+Rodríguez, I. (n.d.). Has the Covid-19 pandemic made us better? The pandemic incidence and restrictions and their relationship with radical right voting. *Working paper*.
 
-[^1]: Derived from PhD Thesis
-
-Rodríguez, I. (n.d.). The dangers of legitimation: Radical right party parliamentary entry effects on public attitudes towards immigration. *Working paper*. [^2]
-
-[^2]: Derived from Master's Thesis
-
-Rodríguez, I., 
+Rodríguez, I. (n.d.). The dangers of legitimation: How the presence of RRPs in Parliament can increase anti-immigration attitudes. *Working paper*.
