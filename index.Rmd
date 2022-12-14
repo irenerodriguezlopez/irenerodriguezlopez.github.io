@@ -11,7 +11,7 @@ Welcome to my personal website!
 
 I am a PhD candidate in the Department of Political and Social Sciences at [Universitat Pompeu Fabra](https://www.upf.edu/web/2019-2020/deppol), working on the VolkswagenStiftung [COVIDEU Project](https://www.covideu.info).
 
-I hold a BA in Political Science and Public Administration by the Universitat de Girona (UdG), an MA in Political Analysis and Institutional Assessment by the Universitat de Barcelona (UB) and a postgraduate degree in Data Analysis also by the UB. My research interests include political behavior and attitudes, far-right politics and quantitative methods.
+I hold a BA in Political Science and Public Administration by the [Universitat de Girona (UdG)](http://www.udg.edu), an MA in Political Analysis and Institutional Assessment by the [Universitat de Barcelona (UB)](https://www.ub.edu/web/portal/ca/) and a postgraduate degree in Data Analysis also by the UB. My research interests include political behavior and attitudes, far-right politics and quantitative methods.
 
 At the [COVIDEU Project](https://www.covideu.info), along with my colleagues, we investigate the effect of the coronavirus pandemic on public support for the European Integration and public attitudes towards the EU.
 

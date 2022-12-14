@@ -1,0 +1,24 @@
+---
+title: ""
+---
+
+## The dangers of legitimation
+
+### How the presence of RRPs in Parliament can increase anti-immigration attitudes.
+
+#### Abstract
+
+Are citizens hiding their true preferences? The entry of nativist and nationalist radical right parties can help
+normalize certain attitudes considered taboo among the population. This paper argues that the presence of
+an RPP in parliament has a legitimation effect that allows citizens to declare their antiimmigration attitudes,
+previously hidden. I test this argument using a difference-in-differences (DiD) methodology, examining
+whether the population expresses more negative attitudes towards immigration after the entry of Vox, a
+Spanish RRP, in the Andalusian Regional Parliament in 2018. Results show a strong positive relationship
+between Vox’s entry in parliament and people’s proclivity of expressing negative attitudes towards immigrants
+of the Andalusian population immediately after the election, compared to citizens from other regions of
+Spain. However, this effect does not hold in the long term. This article has important implications for our
+understanding of attitude normalization and RRP effects on society.
+
+**Keywords:** Attitudes towards immigration, legitimation, persuasion, radical right parties, social norms, Spain, Vox.
+
+Check the manuscript <a href="legitimation_manuscript.pdf#" class="download" title="here">here</a>.
