@@ -17,24 +17,24 @@ title: "My CV"
 
 **BA in Political Science and Administration** (2016-2020) <br> Girona University, Girona, Spain.
 
-### Awards and Honors
-
-**PhD Programme in Political and Social Sciences Doctoral Workshop** <br> - Pompeu Fabra University <br> - 2nd place Best Poster Award <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
-
 ### Research in progress
 
-Rodríguez, I. (n.d.). Has the Covid-19 pandemic made us better? The pandemic incidence and restrictions and their relationship with radical right voting. *Working paper*.
+Rodríguez, I. (n.d.). *Has the Covid-19 pandemic made us better? The pandemic incidence and restrictions and their relationship with radical right voting*. [Submitted for review]
 
-Rodríguez, I. (n.d.). The dangers of legitimation: Radical right party parliamentary entry effects on public attitudes towards immigration. *Working paper*.
+Rodríguez, I. (n.d.). *The dangers of legitimation: Radical right party parliamentary entry effects on public attitudes towards immigration*. [Working paper]
+
+Rodríguez, I., Herbig, L., Rodon, T., Klüver, H., Unan, A., Krawczyk, M., and Kuhn, T. (n.d.). *Husstle and Tussle: How the UK's Vaccine Rollout Impacted EU Attitudes in EU Countries* as part of the [COVIDEU Project](https://www.covideu.info). [Working paper]
 
 ### Teaching
 
 **Universitat Pompeu Fabra** (2022-2023) <br>
-- Crash Course on Basic Statistics and R (BA).
-- Seminars for Qualitative Methodology II (BA).
-- Seminars for Quantitative Methodology (BA).
+
+- Crash Course on Basic Statistics and R (BA on Journalism). <br>
+- Seminars for Qualitative Methodology II (BA on Political Science). <br>
+- Seminars for Quantitative Methodology IV (BA on Political Science).
 
 **Universitat de Barcelona** (2021) <br>
+
 - Seminar on voter behavior and radical right parties.
 
 ### Skills
@@ -62,6 +62,10 @@ Rodríguez, I. (n.d.). The dangers of legitimation: Radical right party parliame
 **PhD Programme in Political and Social Sciences**: *Doctoral Workshop* <br> - March 2022 <br> - Pompeu Fabra University
 
 **UPF PhD Program**: *Working with Concepts in the Social Sciences* <br> - February 2022 <br> - Pompeu Fabra University <br> - Instructor: Frederic Schaffer (University of Massachussets) <br> - <a href="Concepts_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
+
+### Awards and Honors
+
+**PhD Programme in Political and Social Sciences Doctoral Workshop** <br> - Pompeu Fabra University <br> - 2nd place Best Poster Award <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
 
 </div>
 :::

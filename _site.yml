@@ -10,7 +10,7 @@ navbar:
     - text: "My thesis"
       icon: fa-pencil
       href: thesis.html
-    - text: "Working papers"
+    - text: "Research"
       icon: fa-archive fa
       href: papers.html
     - text: "CV"
