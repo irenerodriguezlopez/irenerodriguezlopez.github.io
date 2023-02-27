@@ -6,10 +6,12 @@ output:
       in_header: cover_books.html
 ---
 
-### Submitted for review
+### Under Review
 
-Rodríguez, I. (n.d.). [The dangers of legitimation: How the presence of RRPs in Parliament can increase anti-immigration attitudes](legitimation_paper.html). *[Working paper]*
+Rodríguez, I. (n.d.). [The dangers of legitimation: How the presence of RRPs in Parliament can increase anti-immigration attitudes](legitimation_paper.html).
 
 ### Working papers
 
 Rodríguez, I. (n.d.). Has the Covid-19 pandemic made us better? The pandemic incidence and restrictions and their relationship with radical right voting. *[Working paper]*
+
+Rodríguez, I., Unan, A., Rodon, T., Klüver, H., & Kuhn, T. (n.d.). Hustle and Tussle: How the UK's Vaccine Rollout Impacted EU Attitudes in EU Countries. *As part of the COVIDEU Project.*
