@@ -95,7 +95,7 @@ Rodríguez, I. (n.d.). *Targeting friends or enemies? How winners and losers of 
 
 **PhD Programme in Political and Social Sciences Doctoral Workshop** <br> - Universitat Pompeu Fabra <br> - 2nd place Best Poster Award <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
 
-### Skills
+### Skills/Languages
 
 **Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (basic)
 
