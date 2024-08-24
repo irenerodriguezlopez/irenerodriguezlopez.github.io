@@ -22,5 +22,5 @@ At the [COVIDEU Project](https://www.covideu.info), along with my colleagues, we
 My [doctoral thesis](thesis.html) focuses specifically on COVID-19 pandemic effects on citizens' political attitudes and electoral behavior in the aftermath of the pandemic. Also, you can see the research I am currently working on [here](papers.html).
 </p>
 ```{r me, echo=FALSE, fig.align='center', fig.dim=c(4,2), out.width = "50%"}
-knitr::include_graphics("000031.JPG")
+knitr::include_graphics("001184--002--VK_1.jpg")
 ```
