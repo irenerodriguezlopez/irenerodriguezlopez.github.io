@@ -23,9 +23,10 @@ title: "My CV"
 
 Rodon, T. & Rodríguez, I. (2024). A bitter victory and a sweet defeat: the July 2023 Spanish general election, *South European Society and Politics, 28*(3), pp. 335-357. DOI: https://doi.org/10.1080/13608746.2024.2326300
 
-#### Under review
+Rodríguez, I., Rodon, T., Unan, A., Herbig, L., Klüver, H., & Kuhn, T. (n.d.). *Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU*. [Under Review]
 
-Rodríguez, I., Rodon, T., Unan, A., Herbig, L., Klüver, H., & Kuhn, T. (n.d.). *Husstle and Tussle: How the UK's Vaccine Rollout Impacted EU Attitudes in EU Countries*. [Under Review]
+
+#### Under review
 
 Herbig, L., Unan, A., Kuhn, T., Rodríguez, I., Rodon, T., & Klüver, H. (n.d.). *Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants*. [Under Review]
 
@@ -44,20 +45,21 @@ Rodríguez, I. (n.d.). *Targeting friends or enemies? How winners and losers of 
 
 **Universitat Pompeu Fabra** <br>
 
-(2023-2024) <br>
+Teaching Assistant <br>
 
 - Political Behavior and Public Opinion, TA (BA in Political Science and Administration). <br>
 - Actors and Political Institutions, TA (BA in Political Science and Administration).
-
-(2022-2023) <br>
-
-- Crash Course on Basic Statistics and R (BA in Journalism). <br>
 - Qualitative Methodology II, TA (BA in Political Science and Administration). <br>
 - Quantitative Methodology IV, TA (BA in Political Science and Administration).
 
+
+Instructor <br>
+
+- Crash Course on Basic Statistics and R (BA in Journalism). <br>
+
 **Universitat de Barcelona** <br>
 
-(2021) <br>
+Instructor <br>
 
 - Seminar on voter behavior and radical right parties (Part of the "Universitat de l'Experiència" program).
 
@@ -93,7 +95,7 @@ Rodríguez, I. (n.d.). *Targeting friends or enemies? How winners and losers of 
 
 ### Awards and Honors
 
-**PhD Programme in Political and Social Sciences Doctoral Workshop** <br> - Universitat Pompeu Fabra <br> - 2nd place Best Poster Award <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
+**PhD Programme in Political and Social Sciences Doctoral Workshop - Best Poster Award** <br> - Universitat Pompeu Fabra <br> - 2nd place <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
 
 ### Skills/Languages
 
