@@ -23,7 +23,7 @@ title: "My CV"
 
 Rodon, T. & Rodríguez, I. (2024). A bitter victory and a sweet defeat: the July 2023 Spanish general election, *South European Society and Politics, 28*(3), pp. 335-357. DOI: https://doi.org/10.1080/13608746.2024.2326300
 
-Rodríguez, I., Rodon, T., Unan, A., Herbig, L., Klüver, H., & Kuhn, T. (n.d.). *Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU*. [Under Review]
+Rodríguez, I., Rodon, T., Unan, A., Herbig, L., Klüver, H., & Kuhn, T. (n.d.). *Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU*. [Accepted for publication at the British Journal of Political Science.]
 
 
 #### Under review
@@ -39,6 +39,14 @@ Rodríguez, I. (n.d.). *Does (district) size matter? How political parties tailo
 Rodríguez, I., Rodon, T., & Dickson, Z. (n.d.). *A coordinated solution for a coordinated problem? A Civic Education experiment on climate change and attitudes towards the European Union*. [Working paper]
 
 Rodríguez, I. (n.d.). *Has the Covid-19 pandemic made us better? The pandemic incidence and restrictions and their relationship with radical right voting*. [Working paper]
+
+### Skills/Languages
+
+**Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (basic)
+
+</div>
+
+<div>
 
 ### Teaching
 
@@ -61,10 +69,6 @@ Instructor <br>
 Instructor <br>
 
 - Seminar on voter behavior and radical right parties (Part of the "Universitat de l'Experiència" program).
-
-</div>
-
-<div>
 
 ### Conferences
 
@@ -95,10 +99,6 @@ Instructor <br>
 ### Awards and Honors
 
 **PhD Programme in Political and Social Sciences Doctoral Workshop - Best Poster Award** <br> - Universitat Pompeu Fabra <br> - 2nd place <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
-
-### Skills/Languages
-
-**Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (basic)
 
 </div>
 :::
