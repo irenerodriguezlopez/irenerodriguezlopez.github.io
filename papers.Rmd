@@ -8,22 +8,22 @@ output:
 
 ### Published
 
-Rodon, T. & Rodríguez, I. (2024). A bitter victory and a sweet defeat: the July 2023 Spanish general election, *South European Society and Politics, 28*(3), pp. 335-357. DOI: https://doi.org/10.1080/13608746.2024.2326300
+Rodríguez, I., Rodon, T., Unan, A., Herbig, L., Klüver, H., & Kuhn, T. (2025). Benchmarking pandemic response: How the UK's COVID-19 vaccine rollout impacted diffuse and specific support for the EU. *British Journal of Political Science, 55*(e35). DOI:https://doi.org/10.1017/S0007123424000802
 
-Rodríguez, I., Rodon, T., Unan, A., Herbig, L., Klüver, H., & Kuhn, T. (-). Benchmarking Pandemic Response: How the UK's COVID-19 Vaccine Rollout Impacted Popular Support for the EU. *Accepted for publication at the British Journal of Political Science*
+Herbig, L., Unan, A., Kuhn, T., Rodríguez, I., Rodon, T. & Klüver, H. (forthcoming). Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants. *Accepted at the European Journal of Political Research*.
+
+Rodon, T. & Rodríguez, I. (2024). A bitter victory and a sweet defeat: the July 2023 Spanish general election, *South European Society and Politics, 28*(3), pp. 335-357. DOI: https://doi.org/10.1080/13608746.2024.2326300
 
 ### Under Review
 
-Herbig, L., Unan, A., Kuhn, T., Rodríguez, I., Rodon, T. & Klüver, H. (-). Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants. *As part of the [COVIDEU Project](www.covideu.info).*
-
-Rodríguez, I. (-). The dangers of legitimation: How the presence of RRPs in Parliament can affect attitudes towards immigration. 
+Rodríguez, I. The dangers of legitimation: How the presence of RRPs in Parliament can affect attitudes towards immigration. 
 
 
 ### Working papers
 
-Rodríguez, I., Rodon, T. & Dickson, Z. (-). A coordinated solution for a coordinated problem? A Civic Education experiment on climate change and attitudes towards the European Union. *As part of the [COVIDEU Project](www.covideu.info)*
+Rodríguez, I. Digital Battlegrounds: How Political Parties Tailor Advertising to Electoral Contexts
 
-Rodríguez, I. (-). Has the Covid-19 pandemic made us better? The pandemic incidence and restrictions and their relationship with radical right voting.
+Rodríguez, I., Rodon, T. & Dickson, Z. A coordinated solution for a coordinated problem? A Civic Education experiment on climate change and attitudes towards the European Union. *As part of the [COVIDEU Project](www.covideu.info)*
 
-Rodríguez, I. (-) Does (district) size matter? How political parties tailor targeting to different electoral contexts.
+Rodríguez, I. Has the Covid-19 pandemic made us better? The pandemic incidence and restrictions and their relationship with radical right voting.
 
