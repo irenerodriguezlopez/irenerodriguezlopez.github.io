@@ -8,22 +8,21 @@ output:
 
 ### Published
 
-Rodríguez, I., Rodon, T., Unan, A., Herbig, L., Klüver, H., & Kuhn, T. (2025). Benchmarking pandemic response: How the UK's COVID-19 vaccine rollout impacted diffuse and specific support for the EU. *British Journal of Political Science, 55*(e35). DOI:https://doi.org/10.1017/S0007123424000802
+Rodríguez, I., Rodon, T., Unan, A., Herbig, L., Klüver, H., & Kuhn, T. (2025). Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU, *British Journal of Political Science, 55*(e35), pp- 1-16. DOI: https://doi.org/10.1017/S0007123424000802
 
-Herbig, L., Unan, A., Kuhn, T., Rodríguez, I., Rodon, T. & Klüver, H. (forthcoming). Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants. *Accepted at the European Journal of Political Research*.
+Herbig, L., Unan, A., Kuhn, T., Rodríguez, I., Rodon, T., & Klüver, H. (2025). Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants, *European Journal of Political Science*. DOI: https://doi.org/10.1111/1475-6765.70025
 
 Rodon, T. & Rodríguez, I. (2024). A bitter victory and a sweet defeat: the July 2023 Spanish general election, *South European Society and Politics, 28*(3), pp. 335-357. DOI: https://doi.org/10.1080/13608746.2024.2326300
 
-### Under Review
 
-Rodríguez, I. The dangers of legitimation: How the presence of RRPs in Parliament can affect attitudes towards immigration. 
+#### Under review
 
+Rodríguez, I. (n.d.). *Legitimising prejudice? The impact of radical right party presence on anti-immigration attitude expression*.
 
-### Working papers
+#### In progress
 
-Rodríguez, I. Digital Battlegrounds: How Political Parties Tailor Advertising to Electoral Contexts
+Rodríguez, I., Rodon, T., & Dickson, Z. *A coordinated solution for a coordinated problem? A Civic Education experiment on climate change and attitudes towards the European Union*.
 
-Rodríguez, I., Rodon, T. & Dickson, Z. A coordinated solution for a coordinated problem? A Civic Education experiment on climate change and attitudes towards the European Union. *As part of the [COVIDEU Project](www.covideu.info)*
+Rodríguez, I. *Digital battlegrounds: How political parties tailor advertising to electoral contexts*.
 
-Rodríguez, I. Has the Covid-19 pandemic made us better? The pandemic incidence and restrictions and their relationship with radical right voting.
-
+Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*.

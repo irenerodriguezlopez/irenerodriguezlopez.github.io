@@ -24,7 +24,7 @@ navbar:
       icon: fa-envelope-o fa
       href: mailto:irene.rodriguez@upf.edu     
     - text: ""
-      icon: fa-archive fa
+      icon: fa-graduation-cap fa
       href: https://scholar.google.com/citations?user=ocTbRk4AAAAJ&hl=ca # CHANGE HERE 
     - text: ""
       icon: fa-github fa
@@ -32,6 +32,9 @@ navbar:
     - text: ""
       icon: fa-twitter fa
       href: https://twitter.com/irewrl
+    - text: ""
+      icon: fa-brands fa-bluesky
+      href: https://bsky.app/profile/did:plc:4ihy6c7ie4l77y5szhcwl373
       # CHANGE HERE 
 output:
   html_document:

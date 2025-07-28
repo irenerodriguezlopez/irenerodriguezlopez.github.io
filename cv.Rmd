@@ -3,11 +3,13 @@ title: "My CV"
 ---
 
 ::: {style="display: flex;"}
+
+::: {style="width: 50%;"}
 <div>
 
 ### Current position
 
-**Ph.D. Student in Political Science** (2022-Present) <br> Universitat Pompeu Fabra, Barcelona, Spain. <br> Thesis Project Title: *"Are we better? COVID-19 Pandemic effects on political attitudes and behavior"* <br> Supervisor: Dr. Toni Rodon.
+**Ph.D. Student in Political Science** (2022-Present) <br> Universitat Pompeu Fabra, Barcelona, Spain. <br> Thesis Project Title: *" Challenges of the 21st Century: How politics reacts to the present."* <br> Supervisor: Dr. Toni Rodon.
 
 ### Education
 
@@ -21,50 +23,77 @@ title: "My CV"
 
 #### Publications
 
+Rodríguez, I., Rodon, T., Unan, A., Herbig, L., Klüver, H., & Kuhn, T. (2025). Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU, *British Journal of Political Science, 55*(e35), pp- 1-16. DOI: https://doi.org/10.1017/S0007123424000802
+
+Herbig, L., Unan, A., Kuhn, T., Rodríguez, I., Rodon, T., & Klüver, H. (2025). Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants, *European Journal of Political Science*. DOI: https://doi.org/10.1111/1475-6765.70025
+
 Rodon, T. & Rodríguez, I. (2024). A bitter victory and a sweet defeat: the July 2023 Spanish general election, *South European Society and Politics, 28*(3), pp. 335-357. DOI: https://doi.org/10.1080/13608746.2024.2326300
-
-Rodríguez, I., Rodon, T., Unan, A., Herbig, L., Klüver, H., & Kuhn, T. (*forthcoming*). *Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU*. [Accepted for publication at the British Journal of Political Science.]
-
-Herbig, L., Unan, A., Kuhn, T., Rodríguez, I., Rodon, T., & Klüver, H. (*forthcoming*). *Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants*. [Accepted for publication at the European Journal of Political Research]
 
 
 #### Under review
 
-Rodríguez, I. (n.d.). *The dangers of legitimation: How the presence of RRPs in Parliament can affect attitudes towards immigration*. [Under Review]
+Rodríguez, I. (n.d.). *Legitimising prejudice? The impact of radical right party presence on anti-immigration attitude expression*.
 
 #### In progress
 
-Rodríguez, I. (n.d.). *Does (district) size matter? How political parties tailor targeting to different electoral contexts*. [Working paper]
+Rodríguez, I., Rodon, T., & Dickson, Z. *A coordinated solution for a coordinated problem? A Civic Education experiment on climate change and attitudes towards the European Union*.
 
-Rodríguez, I., Rodon, T., & Dickson, Z. (n.d.). *A coordinated solution for a coordinated problem? A Civic Education experiment on climate change and attitudes towards the European Union*. [Working paper]
+Rodríguez, I. *Digital battlegrounds: How political parties tailor advertising to electoral contexts*.
 
-Rodríguez, I. (n.d.). *Has the Covid-19 pandemic made us better? The pandemic incidence and restrictions and their relationship with radical right voting*. [Working paper]
+Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*.
 
-### Skills/Languages
 
-**Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (basic)
+### Workshops
+
+**I, II & III COVIDEU Workshop**: *Project Workshop* <br> - 2022, 2023, 2024 <br> - University of Amsterdam, UPF, London School of Economics
+
+**Using AI for Text Analysis**: *Online course* <br> Febrary 2025 <br> - InStats <br> - Instructor: Seraphine Maerz <br> - <a href="AI Course_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
+
+**RECSM Summer Methods School**: *Big Data: Computational Analysis of Text* <br> - July 2022 <br> -  Universitat Pompeu Fabra <br> - Instructor: Carlos Arcila (Universidad de Salamanca) <br> - <a href="BigData_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
+
+**RECSM Summer Methods School**: *Multilevel I: Introduction to Multilevel Models* <br> - July 2022 <br> - Universitat Pompeu Fabray <br> - Instructors: Carla Rampichini and Leonardo Grilli (Università di Firenze) <br> - <a href="MultilevelI_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
+
+**VI & X PhD Workshop on Empirical Political Science** <br> - June 2022, June 2024 <br> - Universitat Pompeu Fabra, Universitat de Barcelona <br>
+
+**PhD Programme in Political and Social Sciences**: *Doctoral Workshop* <br> - March 2022, March 2023, March 2024 <br> - Universitat Pompeu Fabra
+
+**UPF PhD Program**: *Working with Concepts in the Social Sciences* <br> - February 2022 <br> - Universitat Pompeu Fabra <br> - Instructor: Frederic Schaffer (University of Massachussets) <br> - <a href="Concepts_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
 
 </div>
+:::
 
+::: {style="width: 50%;"}
 <div>
 
 ### Teaching
 
-**Universitat Pompeu Fabra** <br>
+**Universitat Pompeu Fabra** (2022-2026) <br>
 
 Teaching Assistant <br>
 
-- Political Behavior and Public Opinion, TA (BA in Political Science and Administration). <br>
-- Actors and Political Institutions, TA (BA in Political Science and Administration).
-- Qualitative Methodology II, TA (BA in Political Science and Administration). <br>
-- Quantitative Methodology IV, TA (BA in Political Science and Administration).
-
+- Political Behavior and Public Opinion (BA in Political Science and Administration). <br>
+- Actors and Political Institutions (BA in Political Science and Administration).
+- Qualitative Methodology II (BA in Political Science and Administration). <br>
+- Quantitative Methodology IV (BA in Political Science and Administration).
 
 Instructor <br>
 
 - Crash Course on Basic Statistics and R (BA in Journalism). <br>
 
-**Universitat de Barcelona** <br>
+Invited lecturer <br>
+
+- Society and Politics in Contemporary Spain (Barcelona Program for Interdisciplinary Studies). <br>
+
+
+**Universitat Oberta de Catalunya** (2025-2026) <br>
+
+Adjunct lecturer ("professor col·laborador") <br>
+
+- Research design (BA in Political Science and Administration). <br>
+- Data visualisation and analysis (BA in Political Science and Administration). <br>
+- Electoral analysis and public opinion (BA in Political Science and Administration). <br>
+
+**Universitat de Barcelona** (2022) <br>
 
 Instructor <br>
 
@@ -80,29 +109,21 @@ Instructor <br>
 
 **Midwest Political Science Association, April 2023.** <br> Presenting: Rodríguez, I., Unan, A., Rodon, T., Klüver, H., & Kuhn, T. (n.d.). *Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU* as part of the [COVIDEU Project](https://www.covideu.info). [Accepted for publication at the British Journal of Political Science]
 
-
-### Workshops
-
-
-**I, II & III COVIDEU Workshop**: *Project Workshop* <br> - 2022, 2023, 2024 <br> - University of Amsterdam, UPF, London School of Economics
-
-**RECSM Summer Methods School**: *Big Data: Computational Analysis of Text* <br> - July 2022 <br> -  Universitat Pompeu Fabra <br> - Instructor: Carlos Arcila (Universidad de Salamanca) <br> - <a href="BigData_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
-
-**RECSM Summer Methods School**: *Multilevel I: Introduction to Multilevel Models* <br> - July 2022 <br> - Universitat Pompeu Fabray <br> - Instructors: Carla Rampichini and Leonardo Grilli (Università di Firenze) <br> - <a href="MultilevelI_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
-
-**VI & X PhD Workshop on Empirical Political Science** <br> - June 2022, June 2024 <br> - Universitat Pompeu Fabra, Universitat de Barcelona <br>
-
-**PhD Programme in Political and Social Sciences**: *Doctoral Workshop* <br> - March 2022, March 2023, March 2024 <br> - Universitat Pompeu Fabra
-
-**UPF PhD Program**: *Working with Concepts in the Social Sciences* <br> - February 2022 <br> - Universitat Pompeu Fabra <br> - Instructor: Frederic Schaffer (University of Massachussets) <br> - <a href="Concepts_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
-
 ### Awards and Honors
 
 **PhD Programme in Political and Social Sciences Doctoral Workshop - Best Poster Award** <br> - Universitat Pompeu Fabra <br> - 2nd place <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
 
-</div>
-:::
+### Skills/Languages
+
+**Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (basic)
+
+<br><br><br><br><br><br><br><br>
 
 ### Download my CV
 
 Here you can find an updated PDF version of my CV: <a href="Irene_Rodriguez_CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>
+
+
+</div>
+:::
+:::
