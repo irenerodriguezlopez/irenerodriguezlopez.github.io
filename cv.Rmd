@@ -9,7 +9,7 @@ title: "My CV"
 
 ### Current position
 
-**Ph.D. Student in Political Science** (2022-Present) <br> Universitat Pompeu Fabra, Barcelona, Spain. <br> Thesis Project Title: *" Challenges of the 21st Century: How politics reacts to the present."* <br> Supervisor: Dr. Toni Rodon.
+**Ph.D. Student in Political Science** (2022-Present) <br> Universitat Pompeu Fabra, Barcelona, Spain. <br> Thesis Project Title: *"Challenges of the 21st Century: How politics reacts to the present"*. <br> Supervisor: Dr. Toni Rodon.
 
 ### Education
 
@@ -32,7 +32,7 @@ Rodon, T. & Rodríguez, I. (2024). A bitter victory and a sweet defeat: the July
 
 #### Under review
 
-Rodríguez, I. (n.d.). *Legitimising prejudice? The impact of radical right party presence on anti-immigration attitude expression*.
+Rodríguez, I. *Legitimising prejudice? The impact of radical right party presence on anti-immigration attitude expression*.
 
 #### In progress
 
@@ -45,7 +45,7 @@ Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political
 
 ### Workshops
 
-**I, II & III COVIDEU Workshop**: *Project Workshop* <br> - 2022, 2023, 2024 <br> - University of Amsterdam, UPF, London School of Economics
+**I, II, III & IV COVIDEU Workshop**: *Project Workshop* <br> - 2022, 2023, 2024, 2025 <br> - University of Amsterdam, UPF, London School of Economics, HU Berlin
 
 **Using AI for Text Analysis**: *Online course* <br> Febrary 2025 <br> - InStats <br> - Instructor: Seraphine Maerz <br> - <a href="AI Course_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
 
@@ -71,43 +71,43 @@ Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political
 
 Teaching Assistant <br>
 
-- Political Behavior and Public Opinion (BA in Political Science and Administration). <br>
-- Actors and Political Institutions (BA in Political Science and Administration).
-- Qualitative Methodology II (BA in Political Science and Administration). <br>
-- Quantitative Methodology IV (BA in Political Science and Administration).
+- *Quantitative Methodology IV* (BA in Political Science and Administration). <br>
+- *Political Behavior and Public Opinion* (BA in Political Science and Administration).
+- *Actors and Political Institutions* (BA in Political Science and Administration). <br>
+- *Qualitative Methodology II* (BA in Political Science and Administration).
 
 Instructor <br>
 
-- Crash Course on Basic Statistics and R (BA in Journalism). <br>
+- *Crash Course on Basic Statistics and R* (BA in Journalism). <br>
 
 Invited lecturer <br>
 
-- Society and Politics in Contemporary Spain (Barcelona Program for Interdisciplinary Studies). <br>
+- *Society and Politics in Contemporary Spain* (Barcelona Program for Interdisciplinary Studies). <br>
 
 
 **Universitat Oberta de Catalunya** (2025-2026) <br>
 
 Adjunct lecturer ("professor col·laborador") <br>
 
-- Research design (BA in Political Science and Administration). <br>
-- Data visualisation and analysis (BA in Political Science and Administration). <br>
-- Electoral analysis and public opinion (BA in Political Science and Administration). <br>
+- *Research design* (BA in Political Science and Administration). <br>
+- *Data visualisation and analysis* (BA in Political Science and Administration). <br>
+- *Electoral analysis and public opinion* (BA in Political Science and Administration). <br>
 
 **Universitat de Barcelona** (2022) <br>
 
 Instructor <br>
 
-- Seminar on voter behavior and radical right parties (Part of the "Universitat de l'Experiència" program).
+- Seminar on *voter behavior and radical right parties* (Part of the "Universitat de l'Experiència" program).
 
 ### Conferences
 
-**European Political Science Association, June 2025.** <br> Presenting: Rodríguez, I. (n.d.). *Does (district) size matter? How political parties tailor targeting to different electoral contexts*. [Working paper]
+**European Political Science Association, June 2025.** <br> Presenting: Rodríguez, I. *Digital battlegrounds: How political parties tailor advertising to electoral contexts*. [Working paper]
 
-**European Political Science Association, July 2024.** <br> Presenting: Rodríguez, I., & Rodon, T. (n.d.). *A coordinated solution for a coordinated problem? A Civic Education experiment on climate change and attitudes towards the European Union* as part of the [COVIDEU Project](https://www.covideu.info). [Working paper]
+**European Political Science Association, July 2024.** <br> Presenting: Rodríguez, I., & Rodon, T. *A coordinated solution for a coordinated problem? A Civic Education experiment on climate change and attitudes towards the European Union* as part of the [COVIDEU Project](https://www.covideu.info). [Working paper]
 
-**European Political Science Association, June 2023.** <br> Presenting: Rodríguez, I., Unan, A., Rodon, T., Klüver, H., & Kuhn, T. (n.d.). *Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU* as part of the [COVIDEU Project](https://www.covideu.info). [Accepted for publication at the British Journal of Political Science] and Rodríguez, I., (n.d.). *The dangers of legitimation: how the presence of an RRP in parliament can increase antiimmigration attitudes*. [Working paper]
+**European Political Science Association, June 2023.** <br> Presenting: Rodríguez, I., Unan, A., Rodon, T., Klüver, H., & Kuhn, T.  *Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU* as part of the [COVIDEU Project](https://www.covideu.info) and Rodríguez, I. *The dangers of legitimation: how the presence of an RRP in parliament can increase antiimmigration attitudes*. [Working paper]
 
-**Midwest Political Science Association, April 2023.** <br> Presenting: Rodríguez, I., Unan, A., Rodon, T., Klüver, H., & Kuhn, T. (n.d.). *Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU* as part of the [COVIDEU Project](https://www.covideu.info). [Accepted for publication at the British Journal of Political Science]
+**Midwest Political Science Association, April 2023.** <br> Presenting: Rodríguez, I., Unan, A., Rodon, T., Klüver, H., & Kuhn, T. *Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU* as part of the [COVIDEU Project](https://www.covideu.info).
 
 ### Awards and Honors
 
@@ -115,9 +115,9 @@ Instructor <br>
 
 ### Skills/Languages
 
-**Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (basic)
+**Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX, Quarto <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (intermediate)
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ### Download my CV
 

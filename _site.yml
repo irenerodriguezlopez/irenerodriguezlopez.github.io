@@ -38,7 +38,8 @@ navbar:
       # CHANGE HERE 
 output:
   html_document:
-    theme: bootstrap
+    theme: flatly
     highlight: tango
+    css: styles.css
     lib_dir: site_libs
     self_contained: no
