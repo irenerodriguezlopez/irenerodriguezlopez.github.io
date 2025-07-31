@@ -7,20 +7,42 @@ output:
       css: float.css
 ---
 
+
+
 Welcome to my personal website!
 
 <p align="justify">
 I am a PhD candidate in the Department of Political and Social Sciences at [Universitat Pompeu Fabra](https://www.upf.edu/web/2019-2020/deppol), working on the VolkswagenStiftung [COVIDEU Project](https://www.covideu.info).
 </p>
+
 <p align="justify">
 I hold a BA in Political Science and Public Administration by the [Universitat de Girona (UdG)](http://www.udg.edu), an MA in Political Analysis and Institutional Assessment by the [Universitat de Barcelona (UB)](https://www.ub.edu/web/portal/ca/) and a postgraduate degree in Data Analysis also by the UB. My research interests include political behavior and attitudes, far-right politics and quantitative methods.
 </p>
+
+
+::: {style="display: flex;"}
+
+::: {style="width: 30%;"}
+<div>
+
 <p align="justify">
 At the [COVIDEU Project](https://www.covideu.info), along with my colleagues, we investigate the effect of the Coronavirus pandemic on public support for the European Integration and public attitudes towards the EU.
 </p>
 <p align="justify">
 My [doctoral thesis](thesis.html) focuses on contemporary challenges to democracy, including studies of policy effects following the COVID-19 pandemic, as well as radical right parties and the surge of social network use by political parties. You can see the research I am currently working on [here](papers.html).
 </p>
+
+
+</div>
+:::
+
+::: {style="width: 70%;"}
+<div>
 ```{r me, echo=FALSE, fig.align='center', fig.dim=c(4,2), out.width = "50%"}
 knitr::include_graphics("001184--002--VK_1.jpg")
 ```
+
+
+</div>
+:::
+:::
