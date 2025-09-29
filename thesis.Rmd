@@ -8,7 +8,7 @@ output:
 
 My PhD dissertation explores how modern societal challenges shape political life using **data-driven, causal quantitative methods**.
 
-It is titled "**Challenges of the 21st Century: How politics reacts to the present**", and is structured around three standalone articles:
+It is titled "**Crisis, Competition, and Campaigning: Citizens and Parties in 21st Century Politics**", and is structured around three standalone articles:
 
 ### Article 1: COVID-19 and Political Attitudes in Europe
 
