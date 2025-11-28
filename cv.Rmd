@@ -2,22 +2,14 @@
 title: "My CV"
 ---
 
-::: {style="display: flex;"}
+::: {style="display: flex; gap: 30px;"}
 
 ::: {style="width: 50%;"}
 <div>
 
 ### Current position
 
-**Ph.D. Student in Political Science** (2022-Present) <br> Universitat Pompeu Fabra, Barcelona, Spain. <br> Thesis Project Title: *"Challenges of the 21st Century: How politics reacts to the present"*. <br> Supervisor: Dr. Toni Rodon.
-
-### Education
-
-**Postgraduate Degree in Data Analysis** (2021-2022) <br> Universitat de Barcelona, Barcelona, Spain.
-
-**MSc in Political Analysis and Institutional Assessment** (2020-2021) <br> Universitat de Barcelona, Barcelona, Spain. <br> Thesis Title: *"The entry of Vox in the Spanish political institutions and its effect on citizens' attitudes towards immigration"*.
-
-**BA in Political Science and Administration** (2016-2020) <br> Universitat de Girona, Girona, Spain.
+**Ph.D. Student in Political Science** (2022-Present) <br> Universitat Pompeu Fabra, Barcelona, Spain. <br> Thesis Project Title: *"Crisis, Competition, and Campaigning: Citizens and Parties in 21st Century Politics"*. <br> Supervisor: Dr. Toni Rodon.
 
 ### Research
 
@@ -34,14 +26,13 @@ Rodon, T. & Rodríguez, I. (2024). A bitter victory and a sweet defeat: the July
 
 Rodríguez, I. *Legitimising prejudice? The impact of radical right party presence on anti-immigration attitude expression*.
 
-Rodríguez, I., Rodon, T., & Dickson, Z. *A coordinated solution for a coordinated problem? A Civic Education experiment on climate change and attitudes towards the European Union*.
-
 #### In progress
+
+Rodríguez, I., Rodon, T., & Dickson, Z. *A coordinated solution for a coordination problem? A Civic Education experiment on climate change and attitudes towards the European Union*.
 
 Rodríguez, I. *Digital battlegrounds: How political parties tailor advertising to electoral contexts*.
 
 Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*.
-
 
 ### Workshops
 
@@ -59,11 +50,32 @@ Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political
 
 **UPF PhD Program**: *Working with Concepts in the Social Sciences* <br> - February 2022 <br> - Universitat Pompeu Fabra <br> - Instructor: Frederic Schaffer (University of Massachussets) <br> - <a href="Concepts_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
 
+### Education
+
+**Postgraduate Degree in Data Analysis** (2021-2022) <br> Universitat de Barcelona (Spain).
+
+**MSc in Political Analysis and Institutional Assessment** (2020-2021) <br> Universitat de Barcelona (Spain). <br> Thesis Title: *"The entry of Vox in the Spanish political institutions and its effect on citizens' attitudes towards immigration"*.
+
+**BA in Political Science and Administration** (2016-2020) <br> Universitat de Girona (Spain).
+
 </div>
 :::
 
 ::: {style="width: 50%;"}
 <div>
+
+### Research stays
+
+**Research Stay at Humboldt-Universität zu Berlin** <br>
+- Dynamics Research Training Group (RTG) <br>
+- Under the supervision of Dr. Heike Klüver <br>
+- October–December 2025 <br>
+
+### Invited Talks and Presentations 
+
+**Dynamics Research Training Group Seminar, Humboldt-Universität zu Berlin** <br>
+- November 2025 <br>
+- Presented: *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*.
 
 ### Teaching
 
@@ -89,7 +101,7 @@ Invited lecturer <br>
 
 Adjunct lecturer ("professor col·laborador") <br>
 
-- *Research design* (BA in Political Science and Administration). <br>
+- *Politics and Society* (BA in Political Science and Administration). <br>
 - *Data visualisation and analysis* (BA in Political Science and Administration). <br>
 - *Electoral analysis and public opinion* (BA in Political Science and Administration). <br>
 
@@ -111,13 +123,17 @@ Instructor <br>
 
 ### Awards and Honors
 
+**Beca Santander | Ayuda Económica Para Personal Investigador Predoctoral 2025 (Santander Grant | Financial Aid for Pre-Doctoral Researchers 2025)** <br>
+- Banco Santander <br>
+- €2,000 <br>
+
 **PhD Programme in Political and Social Sciences Doctoral Workshop - Best Poster Award** <br> - Universitat Pompeu Fabra <br> - 2nd place <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
+
 
 ### Skills/Languages
 
 **Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX, Quarto <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (intermediate)
 
-<br><br><br><br><br><br><br><br><br><br><br>
 
 ### Download my CV
 
