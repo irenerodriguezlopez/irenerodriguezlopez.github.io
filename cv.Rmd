@@ -137,7 +137,7 @@ Instructor <br>
 
 ### Download my CV
 
-Here you can find an updated PDF version of my CV: <a href="Irene_Rodriguez_CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>
+Here you can find an updated PDF version of my CV: <a href="Irene_Rodriguez_CV copia.pdf#" class="download" title="Download CV as PDF">Download CV</a>
 
 
 </div>
