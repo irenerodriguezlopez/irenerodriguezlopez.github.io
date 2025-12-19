@@ -49,6 +49,13 @@ Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political
 - Duration: 2026-2027 <br>
 - Principal Investigator: Dr. Jordi Mas (UOC) <br>
 
+### Dissemination/Public engagement/Media contributions
+
+Rodríguez, I. (2025). **Institutional Report on the `Sóc Diputat / Sóc Diputada' Workshop (Parliament of Catalunya)**. <br>
+- Mixed-methods text analysis of students’ policy proposals for the Parliament of Catalonia (programme “Soc diputat/da”), combining qualitative coding and statistical textual analysis to identify thematic patterns, ideological dimensions, and differences across educational and social groups.
+
+Rodon, T., & Rodríguez, I. (2023, October 1). **Quants vots ha perdut l’independentisme des de l’1-O?** *Ara*. Retrieved from https://www.ara.cat/politica/quants-vots-perdut-l-independentisme-des-l-1_1_4815730.html
+
 
 ### Workshops
 
@@ -65,14 +72,6 @@ Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political
 **PhD Programme in Political and Social Sciences**: *Doctoral Workshop* <br> - March 2022, March 2023, March 2024 <br> - Universitat Pompeu Fabra
 
 **UPF PhD Program**: *Working with Concepts in the Social Sciences* <br> - February 2022 <br> - Universitat Pompeu Fabra <br> - Instructor: Frederic Schaffer (University of Massachussets) <br> - <a href="Concepts_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
-
-### Education
-
-**Postgraduate Degree in Data Analysis** (2021-2022) <br> Universitat de Barcelona (Spain).
-
-**MSc in Political Analysis and Institutional Assessment** (2020-2021) <br> Universitat de Barcelona (Spain). <br> Thesis Title: *"The entry of Vox in the Spanish political institutions and its effect on citizens' attitudes towards immigration"*.
-
-**BA in Political Science and Administration** (2016-2020) <br> Universitat de Girona (Spain).
 
 </div>
 :::
@@ -146,10 +145,17 @@ Adjunct lecturer ("professor col·laborador") <br>
 **PhD Programme in Political and Social Sciences Doctoral Workshop - Best Poster Award** <br> - Universitat Pompeu Fabra <br> - 2nd place <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
 
 
+### Education
+
+**Postgraduate Degree in Data Analysis** (2021-2022) <br> Universitat de Barcelona (Spain).
+
+**MSc in Political Analysis and Institutional Assessment** (2020-2021) <br> Universitat de Barcelona (Spain). <br> Thesis Title: *"The entry of Vox in the Spanish political institutions and its effect on citizens' attitudes towards immigration"*.
+
+**BA in Political Science and Administration** (2016-2020) <br> Universitat de Girona (Spain).
+
 ### Skills/Languages
 
 **Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX, Quarto <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (intermediate)
-
 
 ### Download my CV
 
