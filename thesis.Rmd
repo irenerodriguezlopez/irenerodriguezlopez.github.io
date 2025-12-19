@@ -1,7 +1,5 @@
 ---
 title: "My PhD Thesis"
-output:
-  html_document:
 ---
 
 My PhD dissertation explores how modern societal challenges shape political life using **data-driven, causal quantitative methods**.
