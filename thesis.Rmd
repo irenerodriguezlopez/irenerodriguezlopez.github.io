@@ -2,8 +2,6 @@
 title: "My PhD Thesis"
 output:
   html_document:
-    includes:
-      in_header: cover_thesis.html
 ---
 
 My PhD dissertation explores how modern societal challenges shape political life using **data-driven, causal quantitative methods**.

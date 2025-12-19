@@ -2,8 +2,6 @@
 title: "Research"
 output:
   html_document:
-    includes:
-      in_header: cover_books.html
 ---
 
 ### Published
