@@ -17,14 +17,14 @@ title: "My CV"
 
 Rodríguez, I., Rodon, T., Unan, A., Herbig, L., Klüver, H., & Kuhn, T. (2025). Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU, *British Journal of Political Science, 55*(e35), pp- 1-16. DOI: https://doi.org/10.1017/S0007123424000802
 
-Herbig, L., Unan, A., Kuhn, T., Rodríguez, I., Rodon, T., & Klüver, H. (2025). Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants, *European Journal of Political Science*. DOI: https://doi.org/10.1111/1475-6765.70025
+Herbig, L., Unan, A., Kuhn, T., Rodríguez, I., Rodon, T., & Klüver, H. (2025). Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants, *European Journal of Political Research*. DOI: https://doi.org/10.1111/1475-6765.70025
 
 Rodon, T. & Rodríguez, I. (2024). A bitter victory and a sweet defeat: the July 2023 Spanish general election, *South European Society and Politics, 28*(3), pp. 335-357. DOI: https://doi.org/10.1080/13608746.2024.2326300
 
 
-#### Under review
+#### Revise & Resubmit
 
-Rodríguez, I. *Legitimising prejudice? The impact of radical right party presence on anti-immigration attitude expression*.
+Rodríguez, I. *Legitimising prejudice? The impact of radical right party presence on anti-immigration attitude expression*. Electoral Studies.
 
 #### In progress
 
@@ -33,6 +33,22 @@ Rodríguez, I., Rodon, T., & Dickson, Z. *A coordinated solution for a coordinat
 Rodríguez, I. *Digital battlegrounds: How political parties tailor advertising to electoral contexts*.
 
 Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*.
+
+### Participation in projects
+
+**COVIDEU Project** <br> 
+- VolkswagenStiftung Research Project <br> 
+- Role: PhD Researcher <br> 
+- Duration: 2022-2025 <br> 
+- Principal Investigators: Dr. Heike Klüver (HU Berlin), Dr. Toni Rodon (UPF), Dr. Theresa Kuhn (LSE), Dr. Michal Krawczyk <br> 
+- Website: [www.covideu.info](https://www.covideu.info)
+
+**Unraveling reference points in the evaluation of regional governance indicators** <br>
+- Institut d'Estudis d'Autogovern <br>
+- Role: PhD Researcher <br>
+- Duration: 2026-2027 <br>
+- Principal Investigator: Dr. Jordi Mas (UOC) <br>
+
 
 ### Workshops
 
@@ -75,7 +91,16 @@ Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political
 
 **Dynamics Research Training Group Seminar, Humboldt-Universität zu Berlin** <br>
 - November 2025 <br>
-- Presented: *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*.
+- Presented: *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*. <br>
+
+**Barcelona Program for Interdisciplinary Studies, Universitat Pompeu Fabra** <br>
+- January 2025 <br>
+- *Society and Politics in Contemporary Spain: the digital advertising strategies of political parties*.
+
+**Universitat de l'Experiència, Universitat de Barcelona** <br>
+- November 2021 <br>
+- Seminar on *voter behavior and radical right parties*.
+
 
 ### Teaching
 
@@ -92,10 +117,6 @@ Instructor <br>
 
 - *Crash Course on Basic Statistics and R* (BA in Journalism). <br>
 
-Invited lecturer <br>
-
-- *Society and Politics in Contemporary Spain* (Barcelona Program for Interdisciplinary Studies). <br>
-
 
 **Universitat Oberta de Catalunya** (2025-2026) <br>
 
@@ -105,11 +126,6 @@ Adjunct lecturer ("professor col·laborador") <br>
 - *Data visualisation and analysis* (BA in Political Science and Administration). <br>
 - *Electoral analysis and public opinion* (BA in Political Science and Administration). <br>
 
-**Universitat de Barcelona** (2022) <br>
-
-Instructor <br>
-
-- Seminar on *voter behavior and radical right parties* (Part of the "Universitat de l'Experiència" program).
 
 ### Conferences
 
