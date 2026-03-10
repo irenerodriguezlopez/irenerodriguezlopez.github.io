@@ -2,39 +2,47 @@
 title: "My CV"
 ---
 
-::: {style="display: flex; gap: 30px;"}
+::: {style="display: flex; gap: 25px;"}
 
-::: {style="width: 50%;"}
+::: {style="width: 60%;"}
 <div>
 
-### Current position
 
-**Ph.D. Student in Political Science** (2022-Present) <br> Universitat Pompeu Fabra, Barcelona, Spain. <br> Thesis Project Title: *"Crisis, Competition, and Campaigning: Citizens and Parties in 21st Century Politics"*. <br> Supervisor: Dr. Toni Rodon.
+
+### Education
+
+**Ph.D. in Political Science** (2026) <br> Universitat Pompeu Fabra, Barcelona, Spain. <br> Distinction: Cum Laude, International Doctorate Mention. <br> Thesis Project Title: *"Crisis, Competition, and Campaigning: Citizens and Parties in 21st Century Politics"*. <br> Supervisor: Dr. Toni Rodon. <br> Committee Members: [Dr. Katjana Gattermann](https://katjanagattermann.com) (UvA), [Dr. Sofia Vasilopoulou](https://www.sofiavasilopoulou.com) (King's College London), and [Dr. Albert Falcó-Gimeno](https://www.falcogimeno.com) (UB).
+
+**Postgraduate Degree in Data Analysis** (2021-2022) <br> Universitat de Barcelona (Spain).
+
+**MSc in Political Analysis and Institutional Assessment** (2020-2021) <br> Universitat de Barcelona (Spain). <br> Thesis Title: *"The entry of Vox in the Spanish political institutions and its effect on citizens' attitudes towards immigration"*.
+
+**BA in Political Science and Administration** (2016-2020) <br> Universitat de Girona (Spain).
 
 ### Research
 
 #### Publications
 
-Rodríguez, I., Rodon, T., Unan, A., Herbig, L., Klüver, H., & Kuhn, T. (2025). Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU, *British Journal of Political Science, 55*(e35), pp. 1-16. DOI: https://doi.org/10.1017/S0007123424000802
+**Rodríguez, Irene**, [Toni Rodon](https://www.tonirodon.cat), [Asli Unan](https://asliunan.com), [Lisa Herbig](https://www.lisaherbig.com), [Heike Klüver](https://heike-kluever.com), & [Theresa Kuhn](https://theresakuhn.eu) (2025). Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU, *British Journal of Political Science, 55*(e35), pp. 1-16. DOI: https://doi.org/10.1017/S0007123424000802
 
-Herbig, L., Unan, A., Kuhn, T., Rodríguez, I., Rodon, T., & Klüver, H. (2025). Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants, *European Journal of Political Research, 64*(4), pp.1923-1944. DOI: https://doi.org/10.1111/1475-6765.70025
+[Herbig, Lisa](https://www.lisaherbig.com), [Asli Unan](https://asliunan.com), [Theresa Kuhn](https://theresakuhn.eu), **Irene Rodríguez**, [Toni Rodon](https://www.tonirodon.cat), & [Heike Klüver](https://heike-kluever.com) (2025). Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants, *European Journal of Political Research, 64*(4), pp.1923-1944. DOI: https://doi.org/10.1111/1475-6765.70025
 
-Rodon, T. & Rodríguez, I. (2024). A bitter victory and a sweet defeat: the July 2023 Spanish general election, *South European Society and Politics, 28*(3), pp. 335-357. DOI: https://doi.org/10.1080/13608746.2024.2326300
+[Rodon, Toni](https://www.tonirodon.cat) & **Irene Rodríguez** (2024). A bitter victory and a sweet defeat: the July 2023 Spanish general election, *South European Society and Politics, 28*(3), pp. 335-357. DOI: https://doi.org/10.1080/13608746.2024.2326300
 
 
 #### Revise & Resubmit
 
-Rodríguez, I. *Legitimising prejudice? The impact of radical right party presence on anti-immigration attitude expression*.
+**Rodríguez, Irene**. *Legitimising prejudice? The impact of radical right party presence on anti-immigration attitude expression*.
 
 #### Under Review
 
-Rodríguez, I., Rodon, T., & Dickson, Z. *A coordinated solution for a coordination problem? A Civic Education experiment on climate change and attitudes towards the European Union*.
+**Rodríguez, Irene**, [Toni Rodon](https://www.tonirodon.cat), & [Zachary P. Dickson](https://z-dickson.github.io). *A coordinated solution for a coordination problem? A Civic Education experiment on climate change and attitudes towards the European Union*.
 
 #### In progress
 
-Rodríguez, I. *Digital battlegrounds: How political parties tailor advertising to electoral contexts*.
+**Rodríguez, Irene** *Digital battlegrounds: How political parties tailor advertising to electoral contexts*.
 
-Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*.
+**Rodríguez, Irene** *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*.
 
 ### Participation in projects
 
@@ -47,17 +55,9 @@ Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political
 
 **Unraveling reference points in the evaluation of regional governance indicators** <br>
 - Institut d'Estudis d'Autogovern <br>
-- Role: PhD Researcher <br>
+- Role: Junior Researcher <br>
 - Duration: 2026-2027 <br>
 - Principal Investigator: Dr. Jordi Mas (UOC) <br>
-
-### Dissemination/Public engagement/Media contributions
-
-Rodríguez, I. (2025). **Institutional Report on the `Sóc Diputat / Sóc Diputada' Workshop (Parliament of Catalunya)**. <br>
-- Mixed-methods text analysis of students’ policy proposals for the Parliament of Catalonia (programme “Soc diputat/da”), combining qualitative coding and statistical textual analysis to identify thematic patterns, ideological dimensions, and differences across educational and social groups.
-
-Rodon, T., & Rodríguez, I. (2023, October 1). **Quants vots ha perdut l’independentisme des de l’1-O?** *Ara*. Retrieved from https://www.ara.cat/politica/quants-vots-perdut-l-independentisme-des-l-1_1_4815730.html
-
 
 ### Workshops
 
@@ -75,10 +75,16 @@ Rodon, T., & Rodríguez, I. (2023, October 1). **Quants vots ha perdut l’indep
 
 **UPF PhD Program**: *Working with Concepts in the Social Sciences* <br> - February 2022 <br> - Universitat Pompeu Fabra <br> - Instructor: Frederic Schaffer (University of Massachussets) <br> - <a href="Concepts_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
 
+
+### Skills/Languages
+
+**Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX, Quarto <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (intermediate)
+
 </div>
+
 :::
 
-::: {style="width: 50%;"}
+::: {style="width: 40%;"}
 <div>
 
 ### Research stays
@@ -128,6 +134,14 @@ Adjunct lecturer ("professor col·laborador") <br>
 - *Electoral analysis and public opinion* (BA in Political Science and Administration). <br>
 
 
+### Dissemination/Public engagement/Media contributions
+
+Rodríguez, I. (2025). **Institutional Report on the `Soc Diputat / Soc Diputada' Workshop (Parliament of Catalunya)**. <br>
+- Mixed-methods text analysis of students’ policy proposals for the Parliament of Catalonia (programme “Soc diputat/da”), combining qualitative coding and statistical textual analysis to identify thematic patterns, ideological dimensions, and differences across educational and social groups.
+
+Rodon, T., & Rodríguez, I. (2023, October 1). **Quants vots ha perdut l’independentisme des de l’1-O?** *Ara*. Retrieved from https://www.ara.cat/politica/quants-vots-perdut-l-independentisme-des-l-1_1_4815730.html
+
+
 ### Conferences
 
 **European Political Science Association, June 2025.** <br> Presenting: Rodríguez, I. *Digital battlegrounds: How political parties tailor advertising to electoral contexts*. [Working paper]
@@ -146,24 +160,13 @@ Adjunct lecturer ("professor col·laborador") <br>
 
 **PhD Programme in Political and Social Sciences Doctoral Workshop - Best Poster Award** <br> - Universitat Pompeu Fabra <br> - 2nd place <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
 
+</div>
+:::
+:::
 
-### Education
-
-**Postgraduate Degree in Data Analysis** (2021-2022) <br> Universitat de Barcelona (Spain).
-
-**MSc in Political Analysis and Institutional Assessment** (2020-2021) <br> Universitat de Barcelona (Spain). <br> Thesis Title: *"The entry of Vox in the Spanish political institutions and its effect on citizens' attitudes towards immigration"*.
-
-**BA in Political Science and Administration** (2016-2020) <br> Universitat de Girona (Spain).
-
-### Skills/Languages
-
-**Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX, Quarto <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (intermediate)
 
 ### Download my CV
 
 Here you can find an updated PDF version of my CV: <a href="Irene_Rodriguez_CV copia.pdf#" class="download" title="Download CV as PDF">Download CV</a>
 
 
-</div>
-:::
-:::
