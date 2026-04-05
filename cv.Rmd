@@ -7,8 +7,6 @@ title: "My CV"
 ::: {style="width: 60%;"}
 <div>
 
-
-
 ### Education
 
 **Ph.D. in Political Science** (2026) <br> Universitat Pompeu Fabra, Barcelona, Spain. <br> Distinction: Cum Laude, International Doctorate Mention. <br> Thesis Project Title: *"Crisis, Competition, and Campaigning: Citizens and Parties in 21st Century Politics"*. <br> Supervisor: Dr. Toni Rodon. <br> Committee Members: [Dr. Katjana Gattermann](https://katjanagattermann.com) (UvA), [Dr. Sofia Vasilopoulou](https://www.sofiavasilopoulou.com) (King's College London), and [Dr. Albert Falcó-Gimeno](https://www.falcogimeno.com) (UB).
@@ -40,9 +38,9 @@ title: "My CV"
 
 #### In progress
 
-**Rodríguez, Irene** *Digital battlegrounds: How political parties tailor advertising to electoral contexts*.
+**Rodríguez, Irene**. *Digital battlegrounds: How political parties tailor advertising to electoral contexts*.
 
-**Rodríguez, Irene** *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*.
+**Rodríguez, Irene**. *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*.
 
 ### Participation in projects
 
@@ -75,10 +73,13 @@ title: "My CV"
 
 **UPF PhD Program**: *Working with Concepts in the Social Sciences* <br> - February 2022 <br> - Universitat Pompeu Fabra <br> - Instructor: Frederic Schaffer (University of Massachussets) <br> - <a href="Concepts_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
 
+### Awards and Honors
 
-### Skills/Languages
+**Beca Santander | Ayuda Económica Para Personal Investigador Predoctoral 2025 (Santander Grant | Financial Aid for Pre-Doctoral Researchers 2025)** <br>
+- Banco Santander <br>
+- €2,000 <br>
 
-**Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX, Quarto <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (intermediate)
+**PhD Programme in Political and Social Sciences Doctoral Workshop - Best Poster Award** <br> - Universitat Pompeu Fabra <br> - 2nd place <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
 
 </div>
 
@@ -144,6 +145,10 @@ Rodon, T., & Rodríguez, I. (2023, October 1). **Quants vots ha perdut l’indep
 
 ### Conferences
 
+**European Political Science Society, June 2026.** <br> Presenting: Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*. [Working paper]
+
+**European Graduate Network Conference, March 2026.** <br> Presenting: Rodríguez, I. "*One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*. [Working paper]
+
 **European Political Science Association, June 2025.** <br> Presenting: Rodríguez, I. *Digital battlegrounds: How political parties tailor advertising to electoral contexts*. [Working paper]
 
 **European Political Science Association, July 2024.** <br> Presenting: Rodríguez, I., & Rodon, T. *A coordinated solution for a coordinated problem? A Civic Education experiment on climate change and attitudes towards the European Union* as part of the [COVIDEU Project](https://www.covideu.info). [Working paper]
@@ -152,13 +157,12 @@ Rodon, T., & Rodríguez, I. (2023, October 1). **Quants vots ha perdut l’indep
 
 **Midwest Political Science Association, April 2023.** <br> Presenting: Rodríguez, I., Unan, A., Rodon, T., Klüver, H., & Kuhn, T. *Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU* as part of the [COVIDEU Project](https://www.covideu.info).
 
-### Awards and Honors
 
-**Beca Santander | Ayuda Económica Para Personal Investigador Predoctoral 2025 (Santander Grant | Financial Aid for Pre-Doctoral Researchers 2025)** <br>
-- Banco Santander <br>
-- €2,000 <br>
 
-**PhD Programme in Political and Social Sciences Doctoral Workshop - Best Poster Award** <br> - Universitat Pompeu Fabra <br> - 2nd place <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
+### Skills/Languages
+
+**Programming**: R (Expert in Data Analysis for Political Analysis and Public Administration) <br> **Markup**: Markdown/RMarkdown, LaTeX, Quarto <br> **Natural**: Spanish (native), Catalan (native), English (proficient), German (intermediate)
+
 
 </div>
 :::
