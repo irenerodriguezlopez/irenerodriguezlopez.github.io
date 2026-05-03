@@ -1,0 +1,43 @@
+---
+title: "Teaching"
+---
+
+I teach undergraduate courses in political science, methods, and data analysis at Universitat Pompeu Fabra and Universitat Oberta de Catalunya.
+
+### Universitat Pompeu Fabra (2022–2026)
+
+**Teaching Assistant**, BA in Political Science and Administration
+
+- *Quantitative Methodology IV*
+- *Political Behavior and Public Opinion*
+- *Actors and Political Institutions*
+- *Qualitative Methodology II*
+
+**Instructor**, BA in Journalism
+
+- *Crash Course on Basic Statistics and R*
+
+**Instructor**, Barcelona Program for Interdisciplinary Studies (BaPIS)
+
+- *Society and Politics in Contemporary Spain* (Spring 2026)
+
+
+### Universitat Oberta de Catalunya (2025–2026)
+
+**Adjunct lecturer** ("professor col·laborador"), BA in Political Science and Administration
+
+- *Politics and Society*
+- *Data Visualisation and Analysis*
+- *Electoral Analysis and Public Opinion*
+
+
+### Thesis supervision
+
+**Universitat Oberta de Catalunya** (2025–2026)
+
+- 2 Bachelor's theses (BA in Political Science and Administration)
+- 1 Master's thesis
+
+---
+
+If you'd like more detail on any of these courses, please [email me](mailto:irene.rodriguez@upf.edu).

@@ -32,3 +32,105 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 1400px !important;
   width: 80%;
 }
+
+/* Article link button for papers (outlined, navy) */
+.pdf-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  padding: 1px 9px;
+  margin-left: 6px;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: #2c3e50 !important;
+  background-color: #ffffff;
+  border: 1px solid #2c3e50;
+  border-radius: 4px;
+  text-decoration: none !important;
+  vertical-align: middle;
+  line-height: 1.4;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+.pdf-btn:hover, .pdf-btn:focus {
+  background-color: #2c3e50;
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+.pdf-btn i {
+  font-size: 0.95em;
+}
+
+/* Replication data button for papers (outlined, teal) */
+.repl-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  padding: 1px 9px;
+  margin-left: 6px;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: #18bc9c !important;
+  background-color: #ffffff;
+  border: 1px solid #18bc9c;
+  border-radius: 4px;
+  text-decoration: none !important;
+  vertical-align: middle;
+  line-height: 1.4;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+.repl-btn:hover, .repl-btn:focus {
+  background-color: #18bc9c;
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+.repl-btn i {
+  font-size: 0.95em;
+}
+
+/* Abstract toggle button (uses native <details>/<summary>) */
+.abstract {
+  display: inline;
+}
+.abstract-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  padding: 1px 9px;
+  margin-left: 6px;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: #7f8c8d;
+  background-color: #ffffff;
+  border: 1px solid #7f8c8d;
+  border-radius: 4px;
+  cursor: pointer;
+  vertical-align: middle;
+  line-height: 1.4;
+  list-style: none;
+  user-select: none;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+.abstract-btn::-webkit-details-marker { display: none; }
+.abstract-btn::marker { content: ""; }
+.abstract-btn:hover {
+  background-color: #7f8c8d;
+  color: #ffffff;
+}
+.abstract[open] > .abstract-btn {
+  background-color: #7f8c8d;
+  color: #ffffff;
+}
+.abstract-btn i {
+  font-size: 0.95em;
+}
+.abstract-text {
+  display: block;
+  margin: 12px 0 4px 0;
+  padding: 12px 16px;
+  border-left: 3px solid #7f8c8d;
+  background-color: #f8f9fa;
+  font-size: 0.92em;
+  color: #2c3e50;
+  font-style: italic;
+  line-height: 1.55;
+}

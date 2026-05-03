@@ -3,8 +3,12 @@ title: "Hi, I'm Irene"
 output:
   html_document:
     includes:
-      in_header: cover.html
-      css: float.css
+      in_header:
+        - _head.html
+        - cover.html
+    css:
+      - styles.css
+      - float.css
 ---
 
 
@@ -12,9 +16,9 @@ output:
 Welcome to my personal website!
 
 
-::: {style="display: flex;"}
+::: {style="display: flex; gap: 40px; align-items: flex-start; flex-wrap: wrap;"}
 
-::: {style="width: 50%;"}
+::: {style="flex: 1 1 65%; min-width: 280px;"}
 <div>
 
 <p align="justify">
@@ -26,20 +30,30 @@ I also hold a BA in Political Science and Public Administration by the [Universi
 </p>
 
 <p align="justify">
-My research combines inputs from political behaviour, political institutions, and political communication, with a strong methodological focus on quantitative research designs and causal inference
+My research combines inputs from political behaviour, political institutions, and political communication, with a strong methodological focus on quantitative research designs and causal inference.
 </p>
 
 <p align="justify">
-My dissertation, [Crises, Competition, and Campaigning: Citizens and Parties in 21st Century Politics](thesis.html), studied how disruptive events can influence and reshape political evaluations and strategic behaviour. Across three different papers, I use both observational and experimental data to identify how information shocks affect institutional support and how political actors adapt under changing incentives. You can check the research I am currently working on [here](papers.html).
+My dissertation, *Crisis, Competition, and Campaigning: Citizens and Parties in 21st Century Politics*, studied how disruptive events can influence and reshape political evaluations and strategic behaviour. Across three different papers, I use both observational and experimental data to identify how information shocks affect institutional support and how political actors adapt under changing incentives. You can check the research I am currently working on [here](papers.html).
 </p>
 
+#### Research interests
+
+<div style="display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 20px;">
+<span style="display: inline-block; padding: 3px 10px; border: 1px solid #2c3e50; color: #2c3e50; border-radius: 999px; font-size: 13px; line-height: 1.4;">Political behaviour</span>
+<span style="display: inline-block; padding: 3px 10px; border: 1px solid #2c3e50; color: #2c3e50; border-radius: 999px; font-size: 13px; line-height: 1.4;">Radical-right politics</span>
+<span style="display: inline-block; padding: 3px 10px; border: 1px solid #2c3e50; color: #2c3e50; border-radius: 999px; font-size: 13px; line-height: 1.4;">EU politics</span>
+<span style="display: inline-block; padding: 3px 10px; border: 1px solid #2c3e50; color: #2c3e50; border-radius: 999px; font-size: 13px; line-height: 1.4;">Digital campaigning</span>
+<span style="display: inline-block; padding: 3px 10px; border: 1px solid #2c3e50; color: #2c3e50; border-radius: 999px; font-size: 13px; line-height: 1.4;">Causal inference</span>
+<span style="display: inline-block; padding: 3px 10px; border: 1px solid #2c3e50; color: #2c3e50; border-radius: 999px; font-size: 13px; line-height: 1.4;">Quantitative methods</span>
+</div>
 
 </div>
 :::
 
-::: {style="width: 50%;"}
+::: {style="flex: 0 0 30%; min-width: 220px;"}
 <div>
-```{r me, echo=FALSE, fig.align='center', fig.dim=c(4,2), out.width = "60%", fig.cap = "© Cecilia Coca"}
+```{r me, echo=FALSE, fig.align='center', out.width = "100%", fig.cap = "© Cecilia Coca"}
 knitr::include_graphics("001184--002--VK_1.jpg")
 ```
 

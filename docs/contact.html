@@ -32,6 +32,30 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet" />
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+<!-- Open Graph / Facebook / LinkedIn -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Irene Rodríguez">
+<meta property="og:title" content="Irene Rodríguez | Political Scientist">
+<meta property="og:description" content="Political scientist (PhD, Universitat Pompeu Fabra) working on political behaviour, radical-right politics, EU politics, and digital campaigning, with a strong focus on quantitative methods and causal inference.">
+<meta property="og:url" content="https://irenerodriguezlopez.github.io/">
+<meta property="og:image" content="https://irenerodriguezlopez.github.io/001184--002--VK_1.jpg">
+<meta property="og:image:alt" content="Portrait of Irene Rodríguez">
+<meta property="og:locale" content="en_US">
+
+<!-- Twitter / X -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@irewrl">
+<meta name="twitter:creator" content="@irewrl">
+<meta name="twitter:title" content="Irene Rodríguez | Political Scientist">
+<meta name="twitter:description" content="Political scientist (PhD, Universitat Pompeu Fabra) working on political behaviour, radical-right politics, EU politics, and digital campaigning.">
+<meta name="twitter:image" content="https://irenerodriguezlopez.github.io/001184--002--VK_1.jpg">
+
+<!-- Generic SEO -->
+<meta name="description" content="Personal website of Irene Rodríguez, political scientist at Universitat Pompeu Fabra. Research on political behaviour, radical-right politics, EU politics, and digital campaigning.">
+<meta name="author" content="Irene Rodríguez">
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -235,35 +259,35 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fa fa-home"></span>
+    <span class="fa fa-solid fa-house"></span>
      
     About
   </a>
 </li>
 <li>
-  <a href="thesis.html">
-    <span class="fa fa-pencil"></span>
-     
-    My thesis
-  </a>
-</li>
-<li>
   <a href="papers.html">
-    <span class="fa fa-archive fa"></span>
+    <span class="fa fa-solid fa-book"></span>
      
     Research
   </a>
 </li>
 <li>
+  <a href="teaching.html">
+    <span class="fa fa-solid fa-chalkboard-user"></span>
+     
+    Teaching
+  </a>
+</li>
+<li>
   <a href="cv.html">
-    <span class="fa fa-file-pdf-o"></span>
+    <span class="fa fa-solid fa-id-card"></span>
      
     CV
   </a>
 </li>
 <li>
   <a href="contact.html">
-    <span class="fa fa-envelope fa"></span>
+    <span class="fa fa-solid fa-envelope"></span>
      
     Contact
   </a>
@@ -272,28 +296,35 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="mailto:irene.rodriguez@upf.edu">
-    <span class="fa fa-envelope-o fa"></span>
+    <span class="fa fa-solid fa-paper-plane"></span>
      
     
   </a>
 </li>
 <li>
   <a href="https://scholar.google.com/citations?user=ocTbRk4AAAAJ&amp;hl=ca">
-    <span class="fa fa-graduation-cap fa"></span>
+    <span class="fa fa-brands fa-google-scholar"></span>
+     
+    
+  </a>
+</li>
+<li>
+  <a href="https://orcid.org/REPLACE-WITH-YOUR-ORCID">
+    <span class="fa fa-brands fa-orcid"></span>
      
     
   </a>
 </li>
 <li>
   <a href="https://github.com/irenerodriguezlopez">
-    <span class="fa fa-github fa"></span>
+    <span class="fa fa-brands fa-github"></span>
      
     
   </a>
 </li>
 <li>
   <a href="https://twitter.com/irewrl">
-    <span class="fa fa-twitter fa"></span>
+    <span class="fa fa-brands fa-x-twitter"></span>
      
     
   </a>
@@ -331,6 +362,20 @@ Fabra University, 25-27 Ramon Trias Fargas St. (Barcelona, Spain).</p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.2924791355754!2d2.1895595146225455!3d41.38945420383143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a304d9665cd7%3A0xb29da51e07572e77!2sCalle%20Ram%C3%B3n%20Trias%20Fargas%2C%2025%2C%2008005%20Barcelona!5e0!3m2!1ses!2ses!4v1659959463742!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 </iframe>
 
+<footer style="text-align: center; padding: 1.5rem 0 1rem; margin-top: 3rem; color: #95a5a6; font-size: 13px; border-top: 1px solid #ecf0f1;">
+  &copy; <span id="footer-year"></span> Irene Rodríguez &middot; Last updated: <span id="footer-updated"></span>
+</footer>
+<script>
+  (function () {
+    var d = new Date(document.lastModified);
+    var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+    var formatted = d.getDate() + ' ' + months[d.getMonth()] + ' ' + d.getFullYear();
+    var updEl = document.getElementById('footer-updated');
+    var yrEl = document.getElementById('footer-year');
+    if (updEl) updEl.textContent = formatted;
+    if (yrEl) yrEl.textContent = new Date().getFullYear();
+  })();
+</script>
 
 
 

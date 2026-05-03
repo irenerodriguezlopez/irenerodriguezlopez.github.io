@@ -21,13 +21,13 @@ title: "My CV"
 
 #### Publications
 
-**Rodríguez, Irene** (forthcoming). Legitimising prejudice? The impact of radical right party presence on anti-immigration attitude expression. *Electoral Studies*.
+**Rodríguez, Irene** (2026). [Legitimising prejudice? The impact of radical right party presence on anti-immigration attitude expression](https://doi.org/10.1016/j.electstud.2026.103081), *Electoral Studies, 101*.
 
-**Rodríguez, Irene**, [Toni Rodon](https://www.tonirodon.cat), [Asli Unan](https://asliunan.com), [Lisa Herbig](https://www.lisaherbig.com), [Heike Klüver](https://heike-kluever.com), & [Theresa Kuhn](https://theresakuhn.eu) (2025). Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU, *British Journal of Political Science, 55*(e35), pp. 1-16. DOI: https://doi.org/10.1017/S0007123424000802
+[Herbig, Lisa](https://www.lisaherbig.com), [Asli Unan](https://asliunan.com), [Theresa Kuhn](https://theresakuhn.eu), **Irene Rodríguez**, [Toni Rodon](https://www.tonirodon.cat), & [Heike Klüver](https://heike-kluever.com) (2025). [Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants](https://doi.org/10.1111/1475-6765.70025), *European Journal of Political Research, 64*(4), pp. 1923-1944.
 
-[Herbig, Lisa](https://www.lisaherbig.com), [Asli Unan](https://asliunan.com), [Theresa Kuhn](https://theresakuhn.eu), **Irene Rodríguez**, [Toni Rodon](https://www.tonirodon.cat), & [Heike Klüver](https://heike-kluever.com) (2025). Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants, *European Journal of Political Research, 64*(4), pp.1923-1944. DOI: https://doi.org/10.1111/1475-6765.70025
+**Rodríguez, Irene**, [Toni Rodon](https://www.tonirodon.cat), [Asli Unan](https://asliunan.com), [Lisa Herbig](https://www.lisaherbig.com), [Heike Klüver](https://heike-kluever.com), & [Theresa Kuhn](https://theresakuhn.eu) (2025). [Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU](https://doi.org/10.1017/S0007123424000802), *British Journal of Political Science, 55*(e35), pp. 1-16.
 
-[Rodon, Toni](https://www.tonirodon.cat) & **Irene Rodríguez** (2024). A bitter victory and a sweet defeat: the July 2023 Spanish general election, *South European Society and Politics, 28*(3), pp. 335-357. DOI: https://doi.org/10.1080/13608746.2024.2326300
+[Rodon, Toni](https://www.tonirodon.cat) & **Irene Rodríguez** (2024). [A bitter victory and a sweet defeat: the July 2023 Spanish general election](https://doi.org/10.1080/13608746.2024.2326300), *South European Society and Politics, 28*(3), pp. 335-357.
 
 
 #### Under Review
@@ -110,27 +110,7 @@ title: "My CV"
 
 ### Teaching
 
-**Universitat Pompeu Fabra** (2022-2026) <br>
-
-Teaching Assistant <br>
-
-- *Quantitative Methodology IV* (BA in Political Science and Administration). <br>
-- *Political Behavior and Public Opinion* (BA in Political Science and Administration).
-- *Actors and Political Institutions* (BA in Political Science and Administration). <br>
-- *Qualitative Methodology II* (BA in Political Science and Administration).
-
-Instructor <br>
-
-- *Crash Course on Basic Statistics and R* (BA in Journalism). <br>
-
-
-**Universitat Oberta de Catalunya** (2025-2026) <br>
-
-Adjunct lecturer ("professor col·laborador") <br>
-
-- *Politics and Society* (BA in Political Science and Administration). <br>
-- *Data visualisation and analysis* (BA in Political Science and Administration). <br>
-- *Electoral analysis and public opinion* (BA in Political Science and Administration). <br>
+A full list of courses I've taught at Universitat Pompeu Fabra and Universitat Oberta de Catalunya — together with syllabi as they become available — is on the [Teaching page](teaching.html).
 
 
 ### Dissemination/Public engagement/Media contributions

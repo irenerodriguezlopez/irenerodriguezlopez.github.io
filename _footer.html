@@ -1,0 +1,14 @@
+<footer style="text-align: center; padding: 1.5rem 0 1rem; margin-top: 3rem; color: #95a5a6; font-size: 13px; border-top: 1px solid #ecf0f1;">
+  &copy; <span id="footer-year"></span> Irene Rodríguez &middot; Last updated: <span id="footer-updated"></span>
+</footer>
+<script>
+  (function () {
+    var d = new Date(document.lastModified);
+    var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+    var formatted = d.getDate() + ' ' + months[d.getMonth()] + ' ' + d.getFullYear();
+    var updEl = document.getElementById('footer-updated');
+    var yrEl = document.getElementById('footer-year');
+    if (updEl) updEl.textContent = formatted;
+    if (yrEl) yrEl.textContent = new Date().getFullYear();
+  })();
+</script>

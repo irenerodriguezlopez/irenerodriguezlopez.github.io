@@ -1,41 +1,43 @@
-name: "Irene Rodríguez"                                # CHANGE HERE 
+name: "Irene Rodríguez"
 output_dir: "docs"
 navbar:
-  title: "Irene Rodríguez"                             # CHANGE HERE 
+  title: "Irene Rodríguez"
   type: inverse
   left:
     - text: "About"
-      icon: fa-home
+      icon: fa-solid fa-house
       href: index.html
-    - text: "My thesis"
-      icon: fa-pencil
-      href: thesis.html
     - text: "Research"
-      icon: fa-archive fa
+      icon: fa-solid fa-book
       href: papers.html
+    - text: "Teaching"
+      icon: fa-solid fa-chalkboard-user
+      href: teaching.html
     - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html # CHANGE HERE OR DELETE ALL 3 LINES 
+      icon: fa-solid fa-id-card
+      href: cv.html
     - text: "Contact"
-      icon: fa-envelope fa
+      icon: fa-solid fa-envelope
       href: contact.html
   right:
     - text: ""
-      icon: fa-envelope-o fa
-      href: mailto:irene.rodriguez@upf.edu     
+      icon: fa-solid fa-paper-plane
+      href: mailto:irene.rodriguez@upf.edu
     - text: ""
-      icon: fa-graduation-cap fa
-      href: https://scholar.google.com/citations?user=ocTbRk4AAAAJ&hl=ca # CHANGE HERE 
+      icon: fa-brands fa-google-scholar
+      href: https://scholar.google.com/citations?user=ocTbRk4AAAAJ&hl=ca
     - text: ""
-      icon: fa-github fa
-      href: https://github.com/irenerodriguezlopez 
+      icon: fa-brands fa-orcid
+      href: https://orcid.org/REPLACE-WITH-YOUR-ORCID
     - text: ""
-      icon: fa-twitter fa
+      icon: fa-brands fa-github
+      href: https://github.com/irenerodriguezlopez
+    - text: ""
+      icon: fa-brands fa-x-twitter
       href: https://twitter.com/irewrl
     - text: ""
       icon: fa-brands fa-bluesky
       href: https://bsky.app/profile/did:plc:4ihy6c7ie4l77y5szhcwl373
-      # CHANGE HERE 
 output:
   html_document:
     theme: flatly
@@ -43,3 +45,6 @@ output:
     css: styles.css
     lib_dir: site_libs
     self_contained: no
+    includes:
+      in_header: _head.html
+      after_body: _footer.html
