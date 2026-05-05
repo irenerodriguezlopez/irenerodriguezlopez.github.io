@@ -6,8 +6,8 @@ body {
   font-size: 18px;
   line-height: 1.6;
   color: #2c3e50;
-  background-color: #ffffff;
-  padding: 20px;
+  background-color: #ecf0f1;
+  padding: 0;
 }
 
 /* Apply Playfair Display to headings */
@@ -28,9 +28,30 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
+/* White "page" card on grey background */
 .main-container {
-  max-width: 1400px !important;
-  width: 80%;
+  max-width: 1100px !important;
+  width: 90%;
+  background-color: #ffffff;
+  border-radius: 14px;
+  padding: 40px 60px 50px 60px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  box-shadow: 0 2px 12px rgba(44, 62, 80, 0.06);
+}
+
+@media (max-width: 768px) {
+  .main-container {
+    width: 95%;
+    padding: 25px 25px 35px 25px;
+    margin-top: 15px;
+  }
+}
+
+/* Keep the navbar full-width above the card */
+.navbar.navbar-fixed-top {
+  border-radius: 0;
+  margin-bottom: 0;
 }
 
 /* Article link button for papers (outlined, navy) */
@@ -85,6 +106,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 .repl-btn i {
   font-size: 0.95em;
+}
+
+/* Bibliography-style spacing on the Research page */
+.paper {
+  margin-bottom: 1.8em;
+}
+.paper > p {
+  padding-left: 2em;
+  text-indent: -2em;
+  margin-bottom: 0.5em;
+}
+.paper-actions {
+  padding-left: 2em;
+}
+.paper-actions > *:first-child {
+  margin-left: 0;
 }
 
 /* Abstract toggle button (uses native <details>/<summary>) */

@@ -57,6 +57,8 @@ title: "My CV"
 
 ### Workshops
 
+**RECSM Winter Methods School**: *From Prompt to Pipeline* <br> - February 2026 <br> -  Universitat Pompeu Fabra <br> - Instructor: Marco Steenbergen (Universität Zurich) <br> - <a href="BigData_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
+
 **I, II, III & IV COVIDEU Workshop**: *Project Workshop* <br> - 2022, 2023, 2024, 2025 <br> - University of Amsterdam, UPF, London School of Economics, HU Berlin
 
 **Using AI for Text Analysis**: *Online course* <br> Febrary 2025 <br> - InStats <br> - Instructor: Seraphine Maerz <br> - <a href="AI Course_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
@@ -67,17 +69,9 @@ title: "My CV"
 
 **VI & X PhD Workshop on Empirical Political Science** <br> - June 2022, June 2024 <br> - Universitat Pompeu Fabra, Universitat de Barcelona <br>
 
-**PhD Programme in Political and Social Sciences**: *Doctoral Workshop* <br> - March 2022, March 2023, March 2024 <br> - Universitat Pompeu Fabra
+**PhD Programme in Political and Social Sciences**: *Doctoral Workshop* <br> - March 2022, March 2023, March 2024 <br> - Universitat Pompeu Fabra 
 
 **UPF PhD Program**: *Working with Concepts in the Social Sciences* <br> - February 2022 <br> - Universitat Pompeu Fabra <br> - Instructor: Frederic Schaffer (University of Massachussets) <br> - <a href="Concepts_Certificate.pdf#" class="download" title="Course certificate">Course certificate</a>
-
-### Awards and Honors
-
-**Beca Santander | Ayuda Económica Para Personal Investigador Predoctoral 2025 (Santander Grant | Financial Aid for Pre-Doctoral Researchers 2025)** <br>
-- Banco Santander <br>
-- €2,000 <br>
-
-**PhD Programme in Political and Social Sciences Doctoral Workshop - Best Poster Award** <br> - Universitat Pompeu Fabra <br> - 2nd place <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
 
 </div>
 
@@ -110,7 +104,7 @@ title: "My CV"
 
 ### Teaching
 
-A full list of courses I've taught at Universitat Pompeu Fabra and Universitat Oberta de Catalunya — together with syllabi as they become available — is on the [Teaching page](teaching.html).
+A full list of courses I've taught at Universitat Pompeu Fabra and Universitat Oberta de Catalunya is on the [Teaching page](teaching.html).
 
 
 ### Dissemination/Public engagement/Media contributions
@@ -135,6 +129,14 @@ Rodon, T., & Rodríguez, I. (2023, October 1). **Quants vots ha perdut l’indep
 
 **Midwest Political Science Association, April 2023.** <br> Presenting: Rodríguez, I., Unan, A., Rodon, T., Klüver, H., & Kuhn, T. *Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU* as part of the [COVIDEU Project](https://www.covideu.info).
 
+
+### Awards and Honors
+
+**Beca Santander | Ayuda Económica Para Personal Investigador Predoctoral 2025 (Santander Grant | Financial Aid for Pre-Doctoral Researchers 2025)** <br>
+- Banco Santander <br>
+- €2,000 <br>
+
+**PhD Programme in Political and Social Sciences Doctoral Workshop - Best Poster Award** <br> - Universitat Pompeu Fabra <br> - 2nd place <br> - Check out my <a href="IreneRodriguez_Poster_PhDWorkshop.pdf#" class="download" title="poster">poster</a>
 
 
 ### Skills/Languages
