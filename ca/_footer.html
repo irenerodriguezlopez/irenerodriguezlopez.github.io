@@ -1,0 +1,14 @@
+<footer style="text-align: center; padding: 1.5rem 0 1rem; margin-top: 3rem; color: #95a5a6; font-size: 13px; border-top: 1px solid #ecf0f1;">
+  &copy; <span id="footer-year"></span> Irene Rodríguez &middot; Última actualització: <span id="footer-updated"></span>
+</footer>
+<script>
+  (function () {
+    var d = new Date(document.lastModified);
+    var months = ['gener','febrer','març','abril','maig','juny','juliol','agost','setembre','octubre','novembre','desembre'];
+    var formatted = d.getDate() + ' de ' + months[d.getMonth()] + ' de ' + d.getFullYear();
+    var updEl = document.getElementById('footer-updated');
+    var yrEl = document.getElementById('footer-year');
+    if (updEl) updEl.textContent = formatted;
+    if (yrEl) yrEl.textContent = new Date().getFullYear();
+  })();
+</script>

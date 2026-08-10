@@ -57,6 +57,37 @@
 <meta name="description" content="Personal website of Irene Rodríguez, political scientist at Universitat Pompeu Fabra. Research on political behaviour, radical-right politics, EU politics, and digital campaigning.">
 <meta name="author" content="Irene Rodríguez">
 
+<!-- Language toggle: rewrite the CA / EN button so it links to the same page in the other language -->
+<style>
+  .navbar a.lang-toggle, .navbar .lang-toggle > a {
+    font-weight: 700;
+    letter-spacing: 0.05em;
+  }
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var path = window.location.pathname;
+  var match = path.match(/([^\/]+\.html)$/);
+  var currentFile = match ? match[1] : 'index.html';
+  var isCatalan = path.indexOf('/ca/') !== -1;
+  var navLinks = document.querySelectorAll('.navbar a');
+  navLinks.forEach(function(link) {
+    var t = link.textContent.replace(/\s+/g, '');
+    if (t === 'CA' && !isCatalan) {
+      link.setAttribute('href', 'ca/' + currentFile);
+      link.parentElement.classList.add('lang-toggle');
+      link.setAttribute('title', 'Versió en català');
+      link.setAttribute('aria-label', 'Switch to Catalan');
+    } else if (t === 'EN' && isCatalan) {
+      link.setAttribute('href', '../' + currentFile);
+      link.parentElement.classList.add('lang-toggle');
+      link.setAttribute('title', 'English version');
+      link.setAttribute('aria-label', 'Switch to English');
+    }
+  });
+});
+</script>
+
 <style type="text/css">
   code{white-space: pre-wrap;}
   span.smallcaps{font-variant: small-caps;}
@@ -335,6 +366,9 @@ $(document).ready(function () {
      
     
   </a>
+</li>
+<li>
+  <a href="ca/index.html">CA</a>
 </li>
       </ul>
     </div><!--/.nav-collapse -->

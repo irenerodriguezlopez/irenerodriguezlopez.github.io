@@ -22,7 +22,7 @@ Welcome to my personal website!
 <div>
 
 <p align="justify">
-I am a political scientist specialising in political behaviour and quantitative methods. I hold a PhD from [Universitat Pompeu Fabra](https://www.upf.edu/web/2019-2020/deppol), where I worked as a member of the VolkswagenStiftung-funded [COVIDEU Project](https://www.covideu.info).
+I am a political scientist specialising in political behaviour and quantitative methods. I'm currently a Postdoctoral Research Fellow at the Department of Politics and International Relations at the [University of Reading](https://www.reading.ac.uk/politics-international-relations/), working in the UKRI-funded [DIVIDED Project](https://divided-inequality-polarization.github.io/DIVIDED/). I hold a PhD from [Universitat Pompeu Fabra](https://www.upf.edu/web/2019-2020/deppol), where I worked as a member of the VolkswagenStiftung-funded [COVIDEU Project](https://www.covideu.info).
 </p>
 
 <p align="justify">

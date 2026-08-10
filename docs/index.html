@@ -56,6 +56,37 @@
 <!-- Generic SEO -->
 <meta name="description" content="Personal website of Irene Rodríguez, political scientist at Universitat Pompeu Fabra. Research on political behaviour, radical-right politics, EU politics, and digital campaigning.">
 <meta name="author" content="Irene Rodríguez">
+
+<!-- Language toggle: rewrite the CA / EN button so it links to the same page in the other language -->
+<style>
+  .navbar a.lang-toggle, .navbar .lang-toggle > a {
+    font-weight: 700;
+    letter-spacing: 0.05em;
+  }
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var path = window.location.pathname;
+  var match = path.match(/([^\/]+\.html)$/);
+  var currentFile = match ? match[1] : 'index.html';
+  var isCatalan = path.indexOf('/ca/') !== -1;
+  var navLinks = document.querySelectorAll('.navbar a');
+  navLinks.forEach(function(link) {
+    var t = link.textContent.replace(/\s+/g, '');
+    if (t === 'CA' && !isCatalan) {
+      link.setAttribute('href', 'ca/' + currentFile);
+      link.parentElement.classList.add('lang-toggle');
+      link.setAttribute('title', 'Versió en català');
+      link.setAttribute('aria-label', 'Switch to Catalan');
+    } else if (t === 'EN' && isCatalan) {
+      link.setAttribute('href', '../' + currentFile);
+      link.parentElement.classList.add('lang-toggle');
+      link.setAttribute('title', 'English version');
+      link.setAttribute('aria-label', 'Switch to English');
+    }
+  });
+});
+</script>
 <div><img src="000034.JPG" width="100%" align="center"></div>
 
 <style type="text/css">
@@ -338,6 +369,9 @@ $(document).ready(function () {
     
   </a>
 </li>
+<li>
+  <a href="ca/index.html">CA</a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -359,7 +393,12 @@ style="display: flex; gap: 40px; align-items: flex-start; flex-wrap: wrap;">
 <div>
 <p align="justify">
 I am a political scientist specialising in political behaviour and
-quantitative methods. I hold a PhD from <a
+quantitative methods. I’m currently a Postdoctoral Research Fellow at
+the Department of Politics and International Relations at the <a
+href="https://www.reading.ac.uk/politics-international-relations/">University
+of Reading</a>, working in the UKRI-funded <a
+href="https://divided-inequality-polarization.github.io/DIVIDED/">DIVIDED
+Project</a>. I hold a PhD from <a
 href="https://www.upf.edu/web/2019-2020/deppol">Universitat Pompeu
 Fabra</a>, where I worked as a member of the VolkswagenStiftung-funded
 <a href="https://www.covideu.info">COVIDEU Project</a>.

@@ -1,0 +1,141 @@
+---
+title: "Seminari 1: Definició, Dades i Neteja"
+author: "202-5"
+format: html
+---
+
+# Integrants de l'equip
+
+Ingrid Ramírez Saldaña (u197438) Alba Carnerero Nogareda (u213947) Joel Pociello Cayuela (u213394).
+
+# Instruccions
+
+1.  Al teu ordinador, crea una carpeta especial per als exercicis de seminaris.
+2.  Descarrega el document `Seminari1.qmd` i guarda'l en aquesta carpeta.
+3.  Obre el document `Seminari1.qmd` (assegura't de tenir R i RStudio instal·lats).
+4.  Quan obris la sessió de R, assegura't que el directori de treball (*working directory*) estigui a "Source files" (**Session \>\> Set Working Directory \>\> To Source File Location**).
+5.  Siguiendo les instruccions, duu a terme l'exercici.
+6.  Has de lliurar la base de dades que has descarregat i el fitxer quarto de manera que tingui un codi:
+    -   **NET:** El document quarto ha de generar un document html sense errors en prémer el botó de **Render** en qualsevol ordinador que tingui Rstudio.
+    -   **NO REDUNDANT:** Es trauran 2 punts per cada línia de codi que no sigui necessària per netejar o dur a terme l'anàlisi.
+    -   **ANOTAT:** Cada línia de codi ha d'explicar clarament quin és el propòsit d'aquesta línia.
+
+**Recomanacions:**
+
+-   Llegeix les instruccions detalladament.
+-   Per trobar i solucionar problemes de codi i compilació, recorda que és millor lidiar amb els errors d'un en un.
+-   **Consell d'or:** Cada vegada que afegeixis codi nou, neteja el teu entorn (icona de l'escombreta al panell *Environment*) i torna a executar tot el document. Si el teu codi és net i ben escrit, hauries de poder reproduir-ho tot des de zero sense problemes.
+
+------------------------------------------------------------------------
+
+# 1. Preparació
+
+En el següent chunk carrega tots els paquets que siguin necessaris. Per fer un codi net, cap paquet haurà d'estar carregat en cap altre chunk.
+
+```{r}
+# Carrega aquí les llibreries (ex: library(tidyverse))
+library(tidyverse)
+library(haven)
+```
+
+## 10 pts. Identificació de variables: Basant-vos en la vostra pregunta i nivell d'anàlisi assignats, definiu clarament la vostra Variable Independent (X) i la vostra Variable Dependent (Y). Recordeu que una part crucial de l'exercici és que estudieu aquesta pregunta fent servir un nivell d'anàlisi específic, així que incorporeu-ho en la vostra definició.
+
+-   Variable independent (X): el nivell d'espais verds, mesurat a partir de percepcions individuals sobre l'entorn urbà procedents de l'European Social Survey (ESS). Aquesta variable es construeix inicialment a nivell individual, però posteriorment s'agrega a nivell regional mitjançant la mitjana de les respostes, obtenint així un indicador agregat de disponibilitat o qualitat d'espais verds per regió.
+
+-   Variable dependent (Y): la satisfacció amb el govern regional, mesurada mitjançant indicadors del European Quality of Government Index (EQI). Aquesta variable ja es troba definida a nivell agregat regional i reflecteix la percepció dels ciutadans sobre la qualitat institucional i el funcionament del govern.
+
+-   Nivell d'anàlisi: l'anàlisi es realitza a nivell agregat regional. Tot i que les dades de l'ESS són inicialment individuals, aquestes es transformen mitjançant un procés d'agregació per tal de fer-les compatibles amb les dades del EQI, que es troben a nivell regional. Per tant, la unitat d'anàlisi final és la regió.
+
+## 10 pts. Cerca de Dades: Localitzeu i descarregueu almenys una base de dades que contingui aquestes variables, així com el codebook que l'acompanya. Guardeu-ho tot a la carpeta de seminaris. Anoteu aquí: Lloc web d'origen, fitxa bibliogràfica (autors, data de descàrrega, etc.). En el següent chunk, obriu la base de dades i recordeu donar-li un nom útil (p. ex. `data` i no `X1904Frecuencia54`).
+
+Les dades utilitzades en aquest treball provenen de dues fonts principals: Espais verds (Variable independent): Font: European Social Survey (ESS) Lloc web: https://ess.sikt.no Autor(s):European Social Survey European Research Infrastructure Consortium (ESS ERIC) Any:2023/2024 (última disponible) Data de descàrrega: 28/04/2026 Satisfacció amb el govern (Variable dependent). Font: Quality of Government Institute (QoG) – European Quality of Government Index (EQI) Lloc web: https://eqi-map.qog.gu.se Autor(s):Quality of Government Institute, Universitat de Göteborg Any: 2022 Data de descàrrega: 28/04/2026 Les dues bases de dades inclouen documentació metodològica (codebook) que descriu les variables, el disseny de la mostra i el procés de recollida de dades.
+
+```{r}
+equi <- read.csv('eqi_data.csv')
+cronos <- read.csv("CRON3w6e01.csv")
+```
+
+# 2. Fitxa Tècnica
+
+Descriviu breument:
+
+## 10 pts. Unitat d'anàlisi. Descriviu la unitat d'anàlisi (individu, municipis, països). Discutiu si haureu d'agregar la base de dades per poder respondre la pregunta d'investigació assignada.
+
+La unitat d'analisis final és la regió. Tot i que les dades de l'European European Social Survey (ESS) estan inicialment a nivell individual, aquestes s'agreguen a nivell regional mitjançant el càlcul de la mitjana de les respostes per regió. Això permet construir un indicador agregat d'espais verds. En canvi, les dades del European Quality of Government Index (EQI) ja es troben a nivell regional.
+
+## 10 pts. Població i Mostra. A qui representa aquesta base de dades i quantes observacions té?
+
+La base de dades cronos (ESS) té 9585 observacions i 156 variables i representa individus de diferents paisos europeus (nivell individual)
+
+La base de dades equi (EQI) te 302 observacions i 7 variables, representa regions, el nombre d'observacions correspon al número de regions disponibles.
+
+## 10 pts. Pertinença. Discutiu breument per què aquestes variables són indicadors vàlids per respondre la vostra pregunta d'investigació.
+
+Les variables seleccionades són adequades per respondre la pregunta d'investigació perquè, en primer lloc, la variable d'espais verds (procedent de l'ESS) captura la percepció dels ciutadans sobre el seu entorn, que és un element clau de la qualitat de vida urbana.
+
+En comparació, la variable de satisfacció amb el govern (procedent del EQI) reflecteix la percepció agregada sobre la qualitat institucional i el funcionament del govern regional.
+
+La relació entre ambdues variables és rellevant, ja que una millor qualitat de l'entorn urbà pot influir positivament en la valoració que els ciutadans fan de les institucions públiques. Per tant, aquestes variables constitueixen indicadors vàlids per analitzar l'impacte dels espais verds en la satisfacció amb el govern i també son les úniques que hem trobat disponibles que reunissin els requisits per a contestar la pregunta, encara que una hagi hagut de ser a nivell individual.
+
+# 3. Netejar variables. Utilitzant les ordres adequades, revisa que la teva base de dades estigui tidy i neta. Concentra't únicament en les variables que utilitzaràs.
+
+```{r}
+cronos_clean <- cronos %>%
+  select(region, w6sgq1, w6pspwght)
+
+cronos_clean <- cronos_clean %>%
+  mutate(
+    w6sgq1 = na_if(w6sgq1, 99)
+  )
+```
+
+## 10 pts. Estructura de la base de dades. La base de dades és tidy? Necessiteu filtrar unitats, fusionar bases de dades o canviar noms de variables per facilitar el codi? Realitza les transformacions aquí i explica cada pas.
+
+```{r}
+#En primer lloc agruparem les variables que ens interesen de la base de dades de cronos:
+cronos_regional <- cronos_clean %>%
+  group_by(region) %>%
+  summarise(
+    green_sat_mean = weighted.mean(w6sgq1, w6pspwght, na.rm = TRUE)
+  )
+
+#Farem el mateix de la base de dades d'eqi:
+
+eqi_clean <- equi %>%
+  select(nuts, name, eqi2024)
+
+#I ara adjuntem totes les dades que ens interesen en una mateixa taula:
+
+equiicronos <- left_join(cronos_regional, eqi_clean, by = c("region" = "nuts"))
+```
+
+## 10 pts. Valors faltants (NAs). Identifica els valors faltants, revisa com estan codificats i, si cal, transforma'ls per a que estiguin guardats com a NA.
+
+```{r}
+view(equiicronos)
+colMeans(is.na(equiicronos)) * 100
+```
+
+## 10 pts. Descriu els valors que poden prendre les variables i revisa que el tipus de dada sigui correcte (ex: passar de character a numeric).
+
+Hem revisat el tipus de dada de les variables utilitzades a la base de dades final. La variable green_sat_mean (satisfacció mitjana amb el govern local) és de tipus numèric i pot prendre valors continus dins del rang de 0 a 10, ja que prové de respostes individuals agregades mitjançant una mitjana ponderada.
+
+La variable eqi2024 (European Quality of Government Index) també és de tipus numèric i pot prendre valors continus que representen el nivell de qualitat institucional de cada regió.
+
+Les variables region i name són de tipus caracter o factor, ja que actuen com a identificadors categòrics de les regions i no tenen un significat numèric.
+
+Finalment, hem comprovat que totes les variables tenen el tipus de dada adequat per a l'anàlisi, sense necessitat de transformacions addicionals com conversions de character a numeric o factor.
+
+## 10 pts. Si cal, transforma variables per a que tinguin més sentit (ex: PIB en milions, variables dummy de 0 i 1, etc.). Recorda anotar el codi.
+
+# Validació final
+
+## 10 pts. Utilitzant taules o gràfics, revisa que totes les transformacions dutes a terme siguin correctes i que les dades estiguin a punt per a l'anàlisi.
+
+```{r}
+# Fem un gràfic on ens permet observar la relació entre espais verds (satisfacció) i qualitat governamental
+
+ggplot(equiicronos, aes(x = eqi2024, y = green_sat_mean)) +
+  geom_point() +
+  geom_smooth(method = "lm")
+```

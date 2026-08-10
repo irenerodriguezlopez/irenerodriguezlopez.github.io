@@ -1,23 +1,22 @@
 name: "Irene Rodríguez"
-output_dir: "docs"
-exclude: ["ca"]
+output_dir: "../docs/ca"
 navbar:
   title: "Irene Rodríguez"
   type: inverse
   left:
-    - text: "About"
+    - text: "Sobre mi"
       icon: fa-solid fa-house
       href: index.html
-    - text: "Research"
+    - text: "Recerca"
       icon: fa-solid fa-book
       href: papers.html
-    - text: "Teaching"
+    - text: "Docència"
       icon: fa-solid fa-chalkboard-user
       href: teaching.html
     - text: "CV"
       icon: fa-solid fa-id-card
       href: cv.html
-    - text: "Contact"
+    - text: "Contacte"
       icon: fa-solid fa-envelope
       href: contact.html
   right:
@@ -39,13 +38,12 @@ navbar:
     - text: ""
       icon: fa-brands fa-bluesky
       href: https://bsky.app/profile/did:plc:4ihy6c7ie4l77y5szhcwl373
-    - text: "CA"
-      href: ca/index.html
+    - text: "EN"
+      href: ../index.html
 output:
   html_document:
     theme: flatly
     highlight: tango
-    css: styles.css
     lib_dir: site_libs
     self_contained: no
     includes:

@@ -1,0 +1,62 @@
+---
+title: "Hola, sóc l'Irene"
+output:
+  html_document:
+    includes:
+      in_header:
+        - _head.html
+        - cover.html
+    css:
+      - float.css
+---
+
+
+
+Benvinguts al meu lloc web personal!
+
+
+::: {style="display: flex; gap: 40px; align-items: flex-start; flex-wrap: wrap;"}
+
+::: {style="flex: 1 1 65%; min-width: 280px;"}
+<div>
+
+<p align="justify">
+Sóc politòloga, especialitzada en comportament polític i mètodes quantitatius. Tinc el Doctorat per la [Universitat Pompeu Fabra](https://www.upf.edu/web/2019-2020/deppol), on vaig formar part del [Projecte COVIDEU](https://www.covideu.info), finançat per la VolkswagenStiftung.
+</p>
+
+<p align="justify">
+També tinc el Grau en Ciència Política i Administració per la [Universitat de Girona (UdG)](http://www.udg.edu), un Màster en Anàlisi Política i Avaluació Institucional per la [Universitat de Barcelona (UB)](https://www.ub.edu/web/portal/ca/) i un postgrau en Anàlisi de Dades, també a la UB. Els meus interessos de recerca inclouen el comportament i les actituds polítiques, l'extrema dreta i els mètodes quantitatius.
+</p>
+
+<p align="justify">
+La meva recerca combina inputs del comportament polític, les institucions polítiques i la comunicació política, amb un fort enfocament metodològic en dissenys de recerca quantitatius i inferència causal.
+</p>
+
+<p align="justify">
+La meva tesi doctoral, *Crisis, Competition, and Campaigning: Citizens and Parties in 21st Century Politics*, estudia com els esdeveniments disruptius poden influir i remodelar les avaluacions polítiques i el comportament estratègic. A través de tres articles, faig servir dades observacionals i experimentals per identificar com els xocs informatius afecten el suport institucional i com els actors polítics s'adapten a incentius canviants. Pots veure la recerca en què treballo actualment [aquí](papers.html).
+</p>
+
+#### Interessos de recerca
+
+<div style="display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 20px;">
+<span style="display: inline-block; padding: 3px 10px; border: 1px solid #2c3e50; color: #2c3e50; border-radius: 999px; font-size: 13px; line-height: 1.4;">Comportament polític</span>
+<span style="display: inline-block; padding: 3px 10px; border: 1px solid #2c3e50; color: #2c3e50; border-radius: 999px; font-size: 13px; line-height: 1.4;">Extrema dreta</span>
+<span style="display: inline-block; padding: 3px 10px; border: 1px solid #2c3e50; color: #2c3e50; border-radius: 999px; font-size: 13px; line-height: 1.4;">Política europea</span>
+<span style="display: inline-block; padding: 3px 10px; border: 1px solid #2c3e50; color: #2c3e50; border-radius: 999px; font-size: 13px; line-height: 1.4;">Campanyes digitals</span>
+<span style="display: inline-block; padding: 3px 10px; border: 1px solid #2c3e50; color: #2c3e50; border-radius: 999px; font-size: 13px; line-height: 1.4;">Inferència causal</span>
+<span style="display: inline-block; padding: 3px 10px; border: 1px solid #2c3e50; color: #2c3e50; border-radius: 999px; font-size: 13px; line-height: 1.4;">Mètodes quantitatius</span>
+</div>
+
+</div>
+:::
+
+::: {style="flex: 0 0 30%; min-width: 220px;"}
+<div>
+```{r me, echo=FALSE, fig.align='center', out.width = "100%", fig.cap = "© Cecilia Coca"}
+knitr::include_graphics("../001184--002--VK_1.jpg")
+```
+
+
+</div>
+:::
+:::

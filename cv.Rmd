@@ -7,6 +7,10 @@ title: "My CV"
 ::: {style="width: 60%;"}
 <div>
 
+### Academic positions
+
+**Postdoctoral Research Fellow** (2026-present) <br> University of Reading, Reading, UK. <br>
+
 ### Education
 
 **Ph.D. in Political Science** (2026) <br> Universitat Pompeu Fabra, Barcelona, Spain. <br> Distinction: Cum Laude, International Doctorate Mention. <br> Thesis Project Title: *"Crisis, Competition, and Campaigning: Citizens and Parties in 21st Century Politics"*. <br> Supervisor: Dr. Toni Rodon. <br> Committee Members: [Dr. Katjana Gattermann](https://katjanagattermann.com) (UvA), [Dr. Sofia Vasilopoulou](https://www.sofiavasilopoulou.com) (King's College London), and [Dr. Albert Falcó-Gimeno](https://www.falcogimeno.com) (UB).
@@ -41,6 +45,13 @@ title: "My CV"
 **Rodríguez, Irene**. *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*.
 
 ### Participation in projects
+
+**DIVIDED Project** <br>
+- Funded by the UKRI <br>
+- Role: Postodctoral research fellow <br>
+- Duration: 2026-present <br>
+- Principal Investigator: Dr. Miriam Sorace (University of Reading) <br>
+- Website: [https://divided-inequality-polarization.github.io](https://divided-inequality-polarization.github.io/DIVIDED/)
 
 **COVIDEU Project** <br> 
 - VolkswagenStiftung Research Project <br> 
@@ -79,6 +90,14 @@ title: "My CV"
 
 ::: {style="width: 40%;"}
 <div>
+
+### Professional service
+
+**Journal Media Editor** <br>
+- Political Science Research and Methods (PSRM)
+
+**Reviewer** <br>
+- Journals: Electoral Studies; Territory, Politics, Governance; Social Sciences \& Humanities; Political Research Exchange
 
 ### Research stays
 
@@ -131,6 +150,10 @@ Rodon, T., & Rodríguez, I. (2023, October 1). **Quants vots ha perdut l’indep
 
 
 ### Awards and Honors
+
+**Mención Especial, Premio Juan Linz para Tesis Doctorales en Ciencia Política 2025 (Special Mention, Juan Linz Award for Doctoral Theses in Political Science 2025)** <br>
+- Centro de Estudios Políticos y Constitucionales (CEPC) <br>
+- Spain
 
 **Beca Santander | Ayuda Económica Para Personal Investigador Predoctoral 2025 (Santander Grant | Financial Aid for Pre-Doctoral Researchers 2025)** <br>
 - Banco Santander <br>

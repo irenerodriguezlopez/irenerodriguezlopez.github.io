@@ -57,6 +57,37 @@
 <meta name="description" content="Personal website of Irene Rodríguez, political scientist at Universitat Pompeu Fabra. Research on political behaviour, radical-right politics, EU politics, and digital campaigning.">
 <meta name="author" content="Irene Rodríguez">
 
+<!-- Language toggle: rewrite the CA / EN button so it links to the same page in the other language -->
+<style>
+  .navbar a.lang-toggle, .navbar .lang-toggle > a {
+    font-weight: 700;
+    letter-spacing: 0.05em;
+  }
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var path = window.location.pathname;
+  var match = path.match(/([^\/]+\.html)$/);
+  var currentFile = match ? match[1] : 'index.html';
+  var isCatalan = path.indexOf('/ca/') !== -1;
+  var navLinks = document.querySelectorAll('.navbar a');
+  navLinks.forEach(function(link) {
+    var t = link.textContent.replace(/\s+/g, '');
+    if (t === 'CA' && !isCatalan) {
+      link.setAttribute('href', 'ca/' + currentFile);
+      link.parentElement.classList.add('lang-toggle');
+      link.setAttribute('title', 'Versió en català');
+      link.setAttribute('aria-label', 'Switch to Catalan');
+    } else if (t === 'EN' && isCatalan) {
+      link.setAttribute('href', '../' + currentFile);
+      link.parentElement.classList.add('lang-toggle');
+      link.setAttribute('title', 'English version');
+      link.setAttribute('aria-label', 'Switch to English');
+    }
+  });
+});
+</script>
+
 <style type="text/css">
   code{white-space: pre-wrap;}
   span.smallcaps{font-variant: small-caps;}
@@ -336,6 +367,9 @@ $(document).ready(function () {
     
   </a>
 </li>
+<li>
+  <a href="ca/index.html">CA</a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -353,6 +387,11 @@ $(document).ready(function () {
 <div style="display: flex; gap: 25px;">
 <div style="width: 60%;">
 <div>
+<div id="academic-positions" class="section level3">
+<h3>Academic positions</h3>
+<p><strong>Postdoctoral Research Fellow</strong> (2026-present) <br>
+University of Reading, Reading, UK. <br></p>
+</div>
 <div id="education" class="section level3">
 <h3>Education</h3>
 <p><strong>Ph.D. in Political Science</strong> (2026) <br> Universitat
@@ -428,6 +467,11 @@ strategy</em>.</p>
 </div>
 <div id="participation-in-projects" class="section level3">
 <h3>Participation in projects</h3>
+<p><strong>DIVIDED Project</strong> <br> - Funded by the UKRI <br> -
+Role: Postodctoral research fellow <br> - Duration: 2026-present <br> -
+Principal Investigator: Dr. Miriam Sorace (University of Reading) <br> -
+Website: <a
+href="https://divided-inequality-polarization.github.io/DIVIDED/">https://divided-inequality-polarization.github.io</a></p>
 <p><strong>COVIDEU Project</strong> <br> - VolkswagenStiftung Research
 Project <br> - Role: PhD Researcher <br> - Duration: 2022-2025 <br> -
 Principal Investigators: Dr. Heike Klüver (HU Berlin), Dr. Toni Rodon
@@ -482,6 +526,14 @@ certificate</a></p>
 </div>
 <div style="width: 40%;">
 <div>
+<div id="professional-service" class="section level3">
+<h3>Professional service</h3>
+<p><strong>Journal Media Editor</strong> <br> - Political Science
+Research and Methods (PSRM)</p>
+<p><strong>Reviewer</strong> <br> - Journals: Electoral Studies;
+Territory, Politics, Governance; Social Sciences &amp; Humanities;
+Political Research Exchange</p>
+</div>
 <div id="research-stays" class="section level3">
 <h3>Research stays</h3>
 <p><strong>Research Stay at Humboldt-Universität zu Berlin</strong> <br>
@@ -560,6 +612,10 @@ href="https://www.covideu.info">COVIDEU Project</a>.</p>
 </div>
 <div id="awards-and-honors" class="section level3">
 <h3>Awards and Honors</h3>
+<p><strong>Mención Especial, Premio Juan Linz para Tesis Doctorales en
+Ciencia Política 2025 (Special Mention, Juan Linz Award for Doctoral
+Theses in Political Science 2025)</strong> <br> - Centro de Estudios
+Políticos y Constitucionales (CEPC) <br> - Spain</p>
 <p><strong>Beca Santander | Ayuda Económica Para Personal Investigador
 Predoctoral 2025 (Santander Grant | Financial Aid for Pre-Doctoral
 Researchers 2025)</strong> <br> - Banco Santander <br> - €2,000 <br></p>

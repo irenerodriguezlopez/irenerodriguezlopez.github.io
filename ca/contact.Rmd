@@ -1,0 +1,11 @@
+---
+title: "Contacta'm"
+---
+
+Escriu-me a [irene.rodriguez@upf.edu](mailto:irene.rodriguez@upf.edu), o trobam'a X ([@irewrl](https://x.com/irewrl)) i Bluesky ([@irenerodriguez.bsky.social](https://bsky.app/profile/irenerodriguez.bsky.social)) si vols xerrar!
+
+També em pots trobar al despatx 20.035 del Campus Ciutadella de la Universitat Pompeu Fabra, c/ Ramon Trias Fargas, 25-27 (Barcelona).
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.2924791355754!2d2.1895595146225455!3d41.38945420383143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a304d9665cd7%3A0xb29da51e07572e77!2sCalle%20Ram%C3%B3n%20Trias%20Fargas%2C%2025%2C%2008005%20Barcelona!5e0!3m2!1ses!2ses!4v1659959463742!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>

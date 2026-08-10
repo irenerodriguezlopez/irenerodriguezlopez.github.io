@@ -1,0 +1,146 @@
+---
+title: "El meu CV"
+---
+
+::: {style="display: flex; gap: 25px;"}
+
+::: {style="width: 60%;"}
+<div>
+
+### Formació
+
+**Doctorat en Ciència Política** (2026) <br> Universitat Pompeu Fabra, Barcelona. <br> Distinció: *Cum Laude*, Menció Internacional. <br> Títol de la tesi: *"Crisis, Competition, and Campaigning: Citizens and Parties in 21st Century Politics"*. <br> Director: Dr. Toni Rodon. <br> Membres del tribunal: [Dra. Katjana Gattermann](https://katjanagattermann.com) (UvA), [Dra. Sofia Vasilopoulou](https://www.sofiavasilopoulou.com) (King's College London) i [Dr. Albert Falcó-Gimeno](https://www.falcogimeno.com) (UB).
+
+**Postgrau en Anàlisi de Dades** (2021-2022) <br> Universitat de Barcelona.
+
+**Màster en Anàlisi Política i Avaluació Institucional** (2020-2021) <br> Universitat de Barcelona. <br> Títol del TFM: *"L'entrada de Vox a les institucions polítiques espanyoles i el seu efecte en les actituds dels ciutadans envers la immigració"*.
+
+**Grau en Ciència Política i Administració** (2016-2020) <br> Universitat de Girona.
+
+### Recerca
+
+#### Publicacions
+
+**Rodríguez, Irene** (2026). [Legitimising prejudice? The impact of radical right party presence on anti-immigration attitude expression](https://doi.org/10.1016/j.electstud.2026.103081), *Electoral Studies, 101*.
+
+[Herbig, Lisa](https://www.lisaherbig.com), [Asli Unan](https://asliunan.com), [Theresa Kuhn](https://theresakuhn.eu), **Irene Rodríguez**, [Toni Rodon](https://www.tonirodon.cat), & [Heike Klüver](https://heike-kluever.com) (2025). [Closed borders, closed minds? COVID-related border closures, EU support, and hostility towards immigrants](https://doi.org/10.1111/1475-6765.70025), *European Journal of Political Research, 64*(4), pp. 1923-1944.
+
+**Rodríguez, Irene**, [Toni Rodon](https://www.tonirodon.cat), [Asli Unan](https://asliunan.com), [Lisa Herbig](https://www.lisaherbig.com), [Heike Klüver](https://heike-kluever.com), & [Theresa Kuhn](https://theresakuhn.eu) (2025). [Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU](https://doi.org/10.1017/S0007123424000802), *British Journal of Political Science, 55*(e35), pp. 1-16.
+
+[Rodon, Toni](https://www.tonirodon.cat) & **Irene Rodríguez** (2024). [A bitter victory and a sweet defeat: the July 2023 Spanish general election](https://doi.org/10.1080/13608746.2024.2326300), *South European Society and Politics, 28*(3), pp. 335-357.
+
+
+#### En revisió
+
+**Rodríguez, Irene**, [Toni Rodon](https://www.tonirodon.cat), & [Zachary P. Dickson](https://z-dickson.github.io). *A coordinated solution for a coordination problem? A Civic Education experiment on climate change and attitudes towards the European Union*.
+
+#### En curs
+
+**Rodríguez, Irene**. *Digital battlegrounds: How political parties tailor advertising to electoral contexts*.
+
+**Rodríguez, Irene**. *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*.
+
+### Participació en projectes
+
+**COVIDEU Project** <br>
+- Projecte de Recerca de la VolkswagenStiftung <br>
+- Rol: Investigadora predoctoral <br>
+- Durada: 2022-2025 <br>
+- Investigadors principals: Dra. Heike Klüver (HU Berlin), Dr. Toni Rodon (UPF), Dra. Theresa Kuhn (LSE), Dr. Michal Krawczyk <br>
+- Web: [www.covideu.info](https://www.covideu.info)
+
+**Desentrellant els punts de referència en l'avaluació d'indicadors de governança regional** <br>
+- Institut d'Estudis d'Autogovern <br>
+- Rol: Investigadora junior <br>
+- Durada: 2026-2027 <br>
+- Investigador principal: Dr. Jordi Mas (UOC) <br>
+
+### Cursos i tallers
+
+**RECSM Winter Methods School**: *From Prompt to Pipeline* <br> - Febrer 2026 <br> - Universitat Pompeu Fabra <br> - Instructor: Marco Steenbergen (Universität Zurich) <br> - <a href="../BigData_Certificate.pdf#" class="download" title="Certificat">Certificat del curs</a>
+
+**I, II, III & IV COVIDEU Workshop**: *Tallers del projecte* <br> - 2022, 2023, 2024, 2025 <br> - University of Amsterdam, UPF, London School of Economics, HU Berlin
+
+**Using AI for Text Analysis**: *Curs en línia* <br> Febrer 2025 <br> - InStats <br> - Instructora: Seraphine Maerz <br> - <a href="../AI Course_Certificate.pdf#" class="download" title="Certificat">Certificat del curs</a>
+
+**RECSM Summer Methods School**: *Big Data: Computational Analysis of Text* <br> - Juliol 2022 <br> - Universitat Pompeu Fabra <br> - Instructor: Carlos Arcila (Universidad de Salamanca) <br> - <a href="../BigData_Certificate.pdf#" class="download" title="Certificat">Certificat del curs</a>
+
+**RECSM Summer Methods School**: *Multilevel I: Introduction to Multilevel Models* <br> - Juliol 2022 <br> - Universitat Pompeu Fabra <br> - Instructors: Carla Rampichini i Leonardo Grilli (Università di Firenze) <br> - <a href="../MultilevelI_Certificate.pdf#" class="download" title="Certificat">Certificat del curs</a>
+
+**VI & X PhD Workshop on Empirical Political Science** <br> - Juny 2022, juny 2024 <br> - Universitat Pompeu Fabra, Universitat de Barcelona <br>
+
+**PhD Programme in Political and Social Sciences**: *Doctoral Workshop* <br> - Març 2022, març 2023, març 2024 <br> - Universitat Pompeu Fabra
+
+**UPF PhD Program**: *Working with Concepts in the Social Sciences* <br> - Febrer 2022 <br> - Universitat Pompeu Fabra <br> - Instructor: Frederic Schaffer (University of Massachusetts) <br> - <a href="../Concepts_Certificate.pdf#" class="download" title="Certificat">Certificat del curs</a>
+
+</div>
+
+:::
+
+::: {style="width: 40%;"}
+<div>
+
+### Estades de recerca
+
+**Estada de recerca a la Humboldt-Universität zu Berlin** <br>
+- Dynamics Research Training Group (RTG) <br>
+- Sota la supervisió de la Dra. Heike Klüver <br>
+- Octubre–desembre 2025 <br>
+
+### Xerrades convidades i presentacions
+
+**Dynamics Research Training Group Seminar, Humboldt-Universität zu Berlin** <br>
+- Novembre 2025 <br>
+- Presentació: *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*. <br>
+
+**Barcelona Program for Interdisciplinary Studies, Universitat Pompeu Fabra** <br>
+- Gener 2025 <br>
+- *Society and Politics in Contemporary Spain: the digital advertising strategies of political parties*.
+
+**Universitat de l'Experiència, Universitat de Barcelona** <br>
+- Novembre 2021 <br>
+- Seminari sobre *comportament del votant i partits d'extrema dreta*.
+
+
+### Docència
+
+A la pàgina de [Docència](teaching.html) hi ha la llista completa de les assignatures que he impartit a la Universitat Pompeu Fabra i a la Universitat Oberta de Catalunya.
+
+
+### Divulgació, transferència i contribucions als mitjans
+
+Rodríguez, I. (2025). **Informe institucional sobre el taller «Sóc Diputat / Sóc Diputada» (Parlament de Catalunya)**. <br>
+- Anàlisi de mètodes mixtos sobre les propostes polítiques dels estudiants per al Parlament de Catalunya (programa «Sóc diputat/da»), combinant codificació qualitativa i anàlisi textual estadística per identificar patrons temàtics, dimensions ideològiques i diferències entre grups educatius i socials.
+
+Rodon, T., & Rodríguez, I. (2023, 1 d'octubre). **Quants vots ha perdut l'independentisme des de l'1-O?** *Ara*. Disponible a https://www.ara.cat/politica/quants-vots-perdut-l-independentisme-des-l-1_1_4815730.html
+
+
+### Congressos
+
+**European Political Science Society, juny 2026.** <br> Presentació: Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*. [Working paper]
+
+**European Graduate Network Conference, març 2026.** <br> Presentació: Rodríguez, I. *One seat ahead: The impact of narrow electoral wins on political parties' digital ad strategy*. [Working paper]
+
+**European Political Science Association, juny 2025.** <br> Presentació: Rodríguez, I. *Digital battlegrounds: How political parties tailor advertising to electoral contexts*. [Working paper]
+
+**European Political Science Association, juliol 2024.** <br> Presentació: Rodríguez, I., & Rodon, T. *A coordinated solution for a coordinated problem? A Civic Education experiment on climate change and attitudes towards the European Union* com a part del [Projecte COVIDEU](https://www.covideu.info). [Working paper]
+
+**European Political Science Association, juny 2023.** <br> Presentació: Rodríguez, I., Unan, A., Rodon, T., Klüver, H., & Kuhn, T. *Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU* com a part del [Projecte COVIDEU](https://www.covideu.info), i Rodríguez, I. *The dangers of legitimation: how the presence of an RRP in parliament can increase antiimmigration attitudes*. [Working paper]
+
+**Midwest Political Science Association, abril 2023.** <br> Presentació: Rodríguez, I., Unan, A., Rodon, T., Klüver, H., & Kuhn, T. *Benchmarking pandemic response: How the UK's Vaccine Rollout Impacted Popular support for the EU* com a part del [Projecte COVIDEU](https://www.covideu.info).
+
+
+
+### Habilitats / Llengües
+
+**Programació**: R (expert en anàlisi de dades per a la ciència política i l'administració pública) <br> **Marcatge**: Markdown/RMarkdown, LaTeX, Quarto <br> **Idiomes**: castellà (nativa), català (nativa), anglès (avançat), alemany (intermedi)
+
+
+</div>
+:::
+:::
+
+
+### Descarrega el meu CV
+
+Aquí pots descarregar una versió en PDF del meu CV: <a href="../Irene_Rodriguez_CV copia.pdf#" class="download" title="Descarrega el CV">Descarregar CV</a>
